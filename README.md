@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🧠 BGT-Assessment
+
 ### Automated Vision-Based Scoring of the Bender Gestalt Test
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -16,16 +17,22 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#-overview)
-- [Pipeline](#-pipeline)
-- [Project Structure](#-project-structure)
-- [Dataset](#-dataset)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Error Detection](#-error-detection)
-- [Scoring System](#-scoring-system)
-- [Results](#-results)
-- [Team](#-team)
+- [🧠 BGT-Assessment](#-bgt-assessment)
+  - [Automated Vision-Based Scoring of the Bender Gestalt Test](#automated-vision-based-scoring-of-the-bender-gestalt-test)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🔬 Overview](#-overview)
+  - [🔄 Pipeline](#-pipeline)
+  - [📁 Project Structure](#-project-structure)
+  - [🗄️ Dataset](#️-dataset)
+  - [⚙️ Installation](#️-installation)
+  - [🚀 Usage](#-usage)
+    - [Single Image](#single-image)
+    - [Batch Processing (all 89 images)](#batch-processing-all-89-images)
+    - [Output](#output)
+  - [🔍 Error Detection](#-error-detection)
+  - [📊 Scoring System](#-scoring-system)
+  - [📈 Results](#-results)
+  - [👥 Team](#-team)
 
 ---
 
@@ -35,12 +42,12 @@ The **Bender Gestalt Test (BGT)** is a neuropsychological tool where patients co
 
 This project automates that scoring using a full **computer vision pipeline**:
 
-| Manual Process | Our System |
-|---------------|------------|
-| Clinician examines drawings by eye | OpenCV preprocessing pipeline |
-| Subjective error detection | Geometric metrics (Hausdorff, Hu Moments) |
-| No consistency guarantee | Reproducible, quantifiable scores |
-| Minutes per patient | Sub-second analysis |
+| Manual Process                     | Our System                                |
+| ---------------------------------- | ----------------------------------------- |
+| Clinician examines drawings by eye | OpenCV preprocessing pipeline             |
+| Subjective error detection         | Geometric metrics (Hausdorff, Hu Moments) |
+| No consistency guarantee           | Reproducible, quantifiable scores         |
+| Minutes per patient                | Sub-second analysis                       |
 
 ---
 
@@ -51,7 +58,7 @@ Raw Drawing (scan/photo)
         │
         ▼
 ┌─────────────────────┐
-│   PREPROCESSING     │  Gaussian Blur → NLM Denoise → CLAHE → Otsu Binarization → Skeletonization
+│   PREPROCESSING     │  Gaussian Blur → NLM Denoise → CLAHE → Binarization → Skeletonization
 └─────────────────────┘
         │
         ▼
@@ -86,7 +93,7 @@ BGT-Assessment/
 │
 ├── 📂 src/
 │   ├── 📂 preprocessing/
-│   │   └── pipeline.py               # 5-stage image preprocessing
+│   │   └── preprocessing.py               # 5-stage image preprocessing
 │   │
 │   ├── 📂 algorithm/
 │   │   ├── comparator.py             # Template matching & geometric metrics
@@ -119,14 +126,15 @@ BGT-Assessment/
 
 ## 🗄️ Dataset
 
-| Split | Images | Description |
-|-------|--------|-------------|
-| Patient Drawings | **89** | Real hand-drawn BGT scans (varying paper, pencil pressure) |
-| Reference Templates | **9** | Canonical BGT figures (A, 1–8) used for comparison |
+| Split               | Images | Description                                                |
+| ------------------- | ------ | ---------------------------------------------------------- |
+| Patient Drawings    | **89** | Real hand-drawn BGT scans (varying paper, pencil pressure) |
+| Reference Templates | **9**  | Canonical BGT figures (A, 1–8) used for comparison         |
 
 **Data is not included in this repo** (patient privacy). Place your drawings in `data/raw_drawings/` and templates in `data/templates/`.
 
 Template naming convention:
+
 ```
 data/templates/templateA.png
 data/templates/template1.png
@@ -157,16 +165,19 @@ pip install -r requirements.txt
 ## 🚀 Usage
 
 ### Single Image
+
 ```bash
 python main.py --input data/raw_drawings/patient_01.png --visualize
 ```
 
 ### Batch Processing (all 89 images)
+
 ```bash
 python main.py --input data/raw_drawings/ --batch --visualize --output results/
 ```
 
 ### Output
+
 ```
 results/
 ├── patient_01_preprocessing.png   # 6-stage preprocessing grid
@@ -181,13 +192,13 @@ results/
 
 The system detects **5 clinically defined BGT errors**:
 
-| Error | Detection Method | Clinical Meaning |
-|-------|-----------------|------------------|
-| **Rotation** | Principal axis angle deviation ≥ 45° | Motor / spatial planning deficit |
-| **Distortion** | Hu similarity < 0.40 + Hausdorff > 60px | Perceptual-motor dysfunction |
-| **Perseveration** | Hough circle count vs. expected | Inability to shift cognitive set |
-| **Integration Failure** | Connected component count > expected | Figure-ground / synthesis difficulty |
-| **Fragmentation** | Broken contour segments ≥ 3 | Motor control / tremor indicators |
+| Error                   | Detection Method                        | Clinical Meaning                     |
+| ----------------------- | --------------------------------------- | ------------------------------------ |
+| **Rotation**            | Principal axis angle deviation ≥ 45°    | Motor / spatial planning deficit     |
+| **Distortion**          | Hu similarity < 0.40 + Hausdorff > 60px | Perceptual-motor dysfunction         |
+| **Perseveration**       | Hough circle count vs. expected         | Inability to shift cognitive set     |
+| **Integration Failure** | Connected component count > expected    | Figure-ground / synthesis difficulty |
+| **Fragmentation**       | Broken contour segments ≥ 3             | Motor control / tremor indicators    |
 
 ---
 
@@ -230,15 +241,15 @@ Sample output on a single drawing:
 
 ## 👥 Team
 
-| Name | ID |
-|------|----|
+| Name     | ID      |
+| -------- | ------- |
 | Member 1 | 2023XXX |
 | Member 2 | 2023XXX |
 | Member 3 | 2023XXX |
 | Member 4 | 2023XXX |
 | Member 5 | 2023XXX |
 
-*Computing Cognitive Course — Spring 2026*
+_Computing Cognitive Course — Spring 2026_
 
 ---
 
