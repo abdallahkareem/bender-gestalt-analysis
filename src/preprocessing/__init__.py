@@ -1,3 +1,3 @@
-from .pipeline import PreprocessingPipeline
+from .preprocessing import PreprocessingPipeline
 
 __all__ = ["PreprocessingPipeline"]
