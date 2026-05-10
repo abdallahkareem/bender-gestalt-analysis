@@ -1,0 +1,14 @@
+# Place the 9 BGT reference template images here.
+#
+# Required filenames:
+#   templateA.png
+#   template1.png
+#   template2.png
+#   template3.png
+#   template4.png
+#   template5.png
+#   template6.png
+#   template7.png
+#   template8.png
+#
+# Format: Binary PNG (black figure on white background), minimum 128x128px
