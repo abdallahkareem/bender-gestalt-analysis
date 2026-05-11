@@ -1,96 +1,62 @@
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
+import os
 
+img_folder = r"D:\hady\3nd year\Second_term\Cognitive\project\bender-gestalt-analysis\data\processed_drawings"
+base_output_path = r"D:\hady\3nd year\Second_term\Cognitive\project\bender-gestalt-analysis\data\Detected"
 
-# Classify if the shape is point set or contours
-def classify_component(component_img):
+os.makedirs(base_output_path, exist_ok=True)
 
-    num_labels, labels, stats, _ = cv2.connectedComponentsWithStats(component_img)
+for filename in os.listdir(img_folder):
 
-    areas = stats[1:, cv2.CC_STAT_AREA]
+    if filename.lower().endswith((".png", ".jpg", ".jpeg")):
 
-    small = (areas < 60).sum()
-    large = (areas >= 60).sum()
+        student_id = os.path.splitext(filename)[0]
+        student_folder = os.path.join(base_output_path, student_id)
+        os.makedirs(student_folder, exist_ok=True)
 
-    if small > 10 and large < 3:
-        return "contour"
-    return "points"
+        full_path = os.path.join(img_folder, filename)
+        img = cv2.imread(full_path, 0)  # grayscale مباشرة
 
-
-def detect_hybrid_shapes(binary_img, min_area=120, pad=8):
-    """
-    {
-        'box': (x,y,w,h),
-        'type': 'points' or 'contour',
-        'crop': image
-    }
-    """
-
-    h, w = binary_img.shape[:2]
-    components = []
-
-    num_labels, labels, stats, _ = cv2.connectedComponentsWithStats(binary_img)
-
-    for i in range(1, num_labels): 
-        x = stats[i, cv2.CC_STAT_LEFT]
-        y = stats[i, cv2.CC_STAT_TOP]
-        bw = stats[i, cv2.CC_STAT_WIDTH]
-        bh = stats[i, cv2.CC_STAT_HEIGHT]
-        area = stats[i, cv2.CC_STAT_AREA]
-
-        if area < min_area:
+        if img is None:
+            print(" Cannot read:", full_path)
             continue
 
-        x1 = max(0, x - pad)
-        y1 = max(0, y - pad)
-        x2 = min(w, x + bw + pad)
-        y2 = min(h, y + bh + pad)
+        # optional: denoise
+        img = cv2.medianBlur(img, 5)
 
-        crop = binary_img[y1:y2, x1:x2]
+        # dilation (مرة واحدة فقط)
+        kernel = np.ones((12, 12), np.uint8)
+        dilated = cv2.dilate(img, kernel, iterations=2)
 
-        shape_type = classify_component(crop)
+        # contours على صورة مناسبة
+        contours, _ = cv2.findContours(
+            dilated,
+            cv2.RETR_EXTERNAL,
+            cv2.CHAIN_APPROX_SIMPLE
+        )
 
-        components.append({
-            "box": (x1, y1, x2 - x1, y2 - y1),
-            "type": shape_type,
-            "crop": crop
-        })
+        shape_count = 0
 
-    components = sorted(components, key=lambda c: (c['box'][1], c['box'][0]))
+        for cnt in contours:
 
-    return components
+            area = cv2.contourArea(cnt)
 
+            if area > 7000:
 
-IMAGE_PATH = r"F:\Github\bender-gestalt-analysis\data\processed_drawings\page-0008.jpg"
+                x, y, w, h = cv2.boundingRect(cnt)
 
-img = cv2.imread(IMAGE_PATH,0)
-color = cv2.cvtColor(img, cv2.COLOR_GRAY2BGR)
+                margin = 20
+                x1 = max(0, x - margin)
+                y1 = max(0, y - margin)
+                x2 = min(img.shape[1], x + w + margin)
+                y2 = min(img.shape[0], y + h + margin)
 
-shapes = detect_hybrid_shapes(img)
+                roi = img[y1:y2, x1:x2]
 
-print(f"Detected shapes: {len(shapes)}")
+                save_path = os.path.join(student_folder, f"shape_{shape_count}.jpg")
+                cv2.imwrite(save_path, roi)
 
-for i, comp in enumerate(shapes):
-    x, y, w, h = comp["box"]
-    shape_type = comp["type"]
+                shape_count += 1
 
-    cv2.rectangle(color, (x, y), (x+w, y+h), (0, 255, 0), 2)
-
-    cv2.putText(
-        color,
-        f"{i+1}: {shape_type}",
-        (x, y-10),
-        cv2.FONT_HERSHEY_SIMPLEX,
-        0.6,
-        (0, 0, 255),
-        2
-    )
-
-color_rgb = cv2.cvtColor(color, cv2.COLOR_BGR2RGB)
-
-plt.figure(figsize=(12, 8))
-plt.imshow(color_rgb)
-plt.title("Detected Shapes")
-plt.axis("off")
-plt.show()
+print(f" Done! Output saved in: {base_output_path}")
