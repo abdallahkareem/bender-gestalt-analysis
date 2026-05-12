@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 import os
 
-img_folder = r"D:\hady\3nd year\Second_term\Cognitive\project\bender-gestalt-analysis\data\processed_drawings"
-base_output_path = r"D:\hady\3nd year\Second_term\Cognitive\project\bender-gestalt-analysis\data\Detected"
+img_folder = r"D:\assignments\cognitive\project\bender-gestalt-analysis\data\processed_drawings"
+base_output_path = r"D:\assignments\cognitive\project\bender-gestalt-analysis\data\Detected"
 
 os.makedirs(base_output_path, exist_ok=True)
 

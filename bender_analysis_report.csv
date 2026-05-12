@@ -1,744 +1,750 @@
 student,shape,matched_template,hu_distance,hausdorff_distance,area_ratio,template_components,student_components,errors
 page-0001,shape_3.jpg,shape_2.jpg,21.301,130.2306,199.5517,35,16,"Distortion, Perseveration"
 page-0001,shape_4.jpg,shape_2.jpg,21.4843,130.2306,213.3828,35,2,"Distortion, Perseveration"
-page-0001,shape_5.jpg,shape_2.jpg,7.834,130.2306,212.6517,35,4,"Distortion, Perseveration"
-page-0001,shape_0.jpg,shape_7.jpg,20.5533,154.013,149.021,2,1,"Distortion, Perseveration"
-page-0001,shape_2.jpg,shape_7.jpg,5.9609,154.013,146.1145,2,1,"Distortion, Perseveration"
-page-0001,shape_1.jpg,shape_8.jpg,6.8076,138.0036,187.1437,3,1,"Distortion, Perseveration"
-page-0002,shape_5.jpg,shape_0.jpg,5.5407,149.8032,193.7148,1,4,"Distortion, Integration Failure, Perseveration"
+page-0001,shape_5.jpg,shape_2.jpg,7.834,130.2306,212.6517,35,4,Perseveration
+page-0001,shape_0.jpg,shape_7.jpg,20.5533,154.013,149.021,2,1,"Distortion, Omission"
+page-0001,shape_2.jpg,shape_7.jpg,5.9609,154.013,146.1145,2,1,Omission
+page-0001,shape_1.jpg,shape_8.jpg,6.8076,138.0036,187.1437,3,1,No Significant Errors
+page-0002,shape_5.jpg,shape_0.jpg,5.5407,149.8032,193.7148,1,4,"Integration Failure, Perseveration"
 page-0002,shape_3.jpg,shape_2.jpg,21.5668,130.2306,211.7621,35,1,"Distortion, Perseveration"
-page-0002,shape_0.jpg,shape_6.jpg,8.5122,133.3604,169.9587,13,5,"Distortion, Perseveration"
-page-0002,shape_6.jpg,shape_6.jpg,8.0536,133.3604,168.0708,13,4,"Distortion, Perseveration"
-page-0002,shape_2.jpg,shape_7.jpg,20.8632,154.013,145.4369,2,1,"Distortion, Perseveration"
-page-0002,shape_4.jpg,shape_7.jpg,6.0335,154.013,145.7336,2,1,"Distortion, Perseveration"
-page-0002,shape_7.jpg,shape_7.jpg,20.4994,154.013,146.1425,2,1,"Distortion, Perseveration"
-page-0002,shape_8.jpg,shape_7.jpg,5.8069,154.013,137.4743,2,3,"Distortion, Integration Failure, Perseveration"
-page-0002,shape_1.jpg,shape_8.jpg,6.3947,138.0036,185.6168,3,4,"Distortion, Integration Failure, Perseveration"
-page-00025,shape_1.jpg,shape_0.jpg,5.647,149.8032,197.5508,1,4,"Distortion, Integration Failure, Perseveration"
+page-0002,shape_0.jpg,shape_6.jpg,8.5122,133.3604,169.9587,13,5,Omission
+page-0002,shape_6.jpg,shape_6.jpg,8.0536,133.3604,168.0708,13,4,Omission
+page-0002,shape_2.jpg,shape_7.jpg,20.8632,154.013,145.4369,2,1,"Distortion, Omission"
+page-0002,shape_4.jpg,shape_7.jpg,6.0335,154.013,145.7336,2,1,Omission
+page-0002,shape_7.jpg,shape_7.jpg,20.4994,154.013,146.1425,2,1,"Distortion, Omission"
+page-0002,shape_8.jpg,shape_7.jpg,5.8069,154.013,137.4743,2,3,"Omission, Integration Failure"
+page-0002,shape_1.jpg,shape_8.jpg,6.3947,138.0036,185.6168,3,4,Integration Failure
+page-00025,shape_1.jpg,shape_0.jpg,5.647,149.8032,197.5508,1,4,"Integration Failure, Perseveration"
 page-00025,shape_4.jpg,shape_2.jpg,21.5855,130.2306,214.7621,35,1,"Distortion, Perseveration"
-page-00025,shape_0.jpg,shape_6.jpg,8.4334,133.3604,173.823,13,1,"Distortion, Perseveration"
-page-00025,shape_2.jpg,shape_6.jpg,8.23,133.3604,173.9469,13,4,"Distortion, Perseveration"
-page-00025,shape_8.jpg,shape_6.jpg,7.934,133.3604,177.1386,13,1,"Distortion, Perseveration"
-page-00025,shape_3.jpg,shape_7.jpg,5.8134,154.013,148.2056,2,5,"Distortion, Integration Failure, Perseveration"
-page-00025,shape_5.jpg,shape_7.jpg,20.8736,154.013,147.8621,2,1,"Distortion, Perseveration"
-page-00025,shape_6.jpg,shape_7.jpg,20.5394,154.013,147.6542,2,1,"Distortion, Perseveration"
-page-00025,shape_7.jpg,shape_8.jpg,6.619,138.0036,177.9311,3,32,"Distortion, Integration Failure, Perseveration"
+page-00025,shape_0.jpg,shape_6.jpg,8.4334,133.3604,173.823,13,1,Omission
+page-00025,shape_2.jpg,shape_6.jpg,8.23,133.3604,173.9469,13,4,Omission
+page-00025,shape_8.jpg,shape_6.jpg,7.934,133.3604,177.1386,13,1,Omission
+page-00025,shape_3.jpg,shape_7.jpg,5.8134,154.013,148.2056,2,5,"Omission, Integration Failure"
+page-00025,shape_5.jpg,shape_7.jpg,20.8736,154.013,147.8621,2,1,"Distortion, Omission"
+page-00025,shape_6.jpg,shape_7.jpg,20.5394,154.013,147.6542,2,1,"Distortion, Omission"
+page-00025,shape_7.jpg,shape_8.jpg,6.619,138.0036,177.9311,3,32,"Omission, Integration Failure"
 page-00026,shape_2.jpg,shape_2.jpg,21.5296,130.2306,216.1034,35,7,"Distortion, Perseveration"
-page-00026,shape_8.jpg,shape_2.jpg,8.0535,130.2306,207.1207,35,3,"Distortion, Perseveration"
-page-00026,shape_1.jpg,shape_6.jpg,8.4523,133.3604,176.2124,13,5,"Distortion, Perseveration"
-page-00026,shape_0.jpg,shape_7.jpg,20.8662,154.013,137.8131,2,4,"Distortion, Integration Failure, Perseveration"
-page-00026,shape_4.jpg,shape_7.jpg,20.9028,154.013,149.8178,2,1,"Distortion, Perseveration"
-page-00026,shape_5.jpg,shape_7.jpg,20.8776,154.013,147.9696,2,1,"Distortion, Perseveration"
-page-00026,shape_6.jpg,shape_7.jpg,5.3508,154.013,138.6238,2,17,"Distortion, Integration Failure, Perseveration"
-page-00026,shape_7.jpg,shape_7.jpg,20.5086,154.013,141.1752,2,7,"Distortion, Integration Failure, Perseveration"
-page-00026,shape_3.jpg,shape_8.jpg,6.8319,138.0036,184.3144,3,1,"Distortion, Perseveration"
-page-00027,shape_3.jpg,shape_0.jpg,5.3941,149.8032,190.2885,1,30,"Distortion, Integration Failure, Perseveration"
-page-00027,shape_9.jpg,shape_0.jpg,5.8659,149.8032,197.1344,1,3,"Distortion, Integration Failure, Perseveration"
+page-00026,shape_8.jpg,shape_2.jpg,8.0535,130.2306,207.1207,35,3,Perseveration
+page-00026,shape_1.jpg,shape_6.jpg,8.4523,133.3604,176.2124,13,5,Omission
+page-00026,shape_0.jpg,shape_7.jpg,20.8662,154.013,137.8131,2,4,"Distortion, Omission, Integration Failure"
+page-00026,shape_4.jpg,shape_7.jpg,20.9028,154.013,149.8178,2,1,"Distortion, Omission"
+page-00026,shape_5.jpg,shape_7.jpg,20.8776,154.013,147.9696,2,1,"Distortion, Omission"
+page-00026,shape_6.jpg,shape_7.jpg,5.3508,154.013,138.6238,2,17,"Omission, Integration Failure"
+page-00026,shape_7.jpg,shape_7.jpg,20.5086,154.013,141.1752,2,7,"Distortion, Omission, Integration Failure"
+page-00026,shape_3.jpg,shape_8.jpg,6.8319,138.0036,184.3144,3,1,No Significant Errors
+page-00027,shape_3.jpg,shape_0.jpg,5.3941,149.8032,190.2885,1,30,"Integration Failure, Perseveration"
+page-00027,shape_9.jpg,shape_0.jpg,5.8659,149.8032,197.1344,1,3,"Integration Failure, Perseveration"
 page-00027,shape_1.jpg,shape_2.jpg,21.4643,130.2306,206.7586,35,3,"Distortion, Perseveration"
 page-00027,shape_5.jpg,shape_2.jpg,21.5428,130.2306,213.1931,35,1,"Distortion, Perseveration"
-page-00027,shape_6.jpg,shape_2.jpg,7.9408,130.2306,206.069,35,1,"Distortion, Perseveration"
-page-00027,shape_0.jpg,shape_6.jpg,8.0169,133.3604,178.8053,13,1,"Distortion, Perseveration"
-page-00027,shape_2.jpg,shape_6.jpg,8.3639,133.3604,183.351,13,1,"Distortion, Perseveration"
-page-00027,shape_4.jpg,shape_6.jpg,8.4587,133.3604,188.3717,13,1,"Distortion, Perseveration"
-page-00027,shape_7.jpg,shape_7.jpg,5.9594,154.013,138.0093,2,11,"Distortion, Integration Failure, Perseveration"
-page-00027,shape_8.jpg,shape_8.jpg,6.7703,138.0036,188.8653,3,1,"Distortion, Perseveration"
-page-00028,shape_1.jpg,shape_0.jpg,5.9502,149.8032,207.282,1,1,"Distortion, Perseveration"
-page-00028,shape_4.jpg,shape_2.jpg,7.9026,130.2306,206.8034,35,2,"Distortion, Perseveration"
+page-00027,shape_6.jpg,shape_2.jpg,7.9408,130.2306,206.069,35,1,Perseveration
+page-00027,shape_0.jpg,shape_6.jpg,8.0169,133.3604,178.8053,13,1,Omission
+page-00027,shape_2.jpg,shape_6.jpg,8.3639,133.3604,183.351,13,1,No Significant Errors
+page-00027,shape_4.jpg,shape_6.jpg,8.4587,133.3604,188.3717,13,1,No Significant Errors
+page-00027,shape_7.jpg,shape_7.jpg,5.9594,154.013,138.0093,2,11,"Omission, Integration Failure"
+page-00027,shape_8.jpg,shape_8.jpg,6.7703,138.0036,188.8653,3,1,No Significant Errors
+page-00028,shape_1.jpg,shape_0.jpg,5.9502,149.8032,207.282,1,1,Perseveration
+page-00028,shape_4.jpg,shape_2.jpg,7.9026,130.2306,206.8034,35,2,Perseveration
 page-00028,shape_5.jpg,shape_2.jpg,21.3327,130.2306,199.9966,35,11,"Distortion, Perseveration"
-page-00028,shape_2.jpg,shape_6.jpg,8.4997,133.3604,186.9587,13,1,"Distortion, Perseveration"
-page-00028,shape_7.jpg,shape_6.jpg,8.3182,133.3604,182.6726,13,1,"Distortion, Perseveration"
-page-00028,shape_8.jpg,shape_6.jpg,8.0026,133.3604,174.4661,13,5,"Distortion, Perseveration"
-page-00028,shape_0.jpg,shape_7.jpg,20.7949,154.013,145.2477,2,7,"Distortion, Integration Failure, Perseveration"
-page-00028,shape_3.jpg,shape_7.jpg,5.9558,154.013,141.9463,2,1,"Distortion, Perseveration"
-page-00028,shape_6.jpg,shape_7.jpg,20.5388,154.013,142.1729,2,1,"Distortion, Perseveration"
-page-00028,shape_9.jpg,shape_7.jpg,20.4909,154.013,135.3037,2,5,"Distortion, Integration Failure, Perseveration"
-page-00029,shape_8.jpg,shape_0.jpg,5.8464,149.8032,201.5049,1,1,"Distortion, Perseveration"
+page-00028,shape_2.jpg,shape_6.jpg,8.4997,133.3604,186.9587,13,1,No Significant Errors
+page-00028,shape_7.jpg,shape_6.jpg,8.3182,133.3604,182.6726,13,1,No Significant Errors
+page-00028,shape_8.jpg,shape_6.jpg,8.0026,133.3604,174.4661,13,5,Omission
+page-00028,shape_0.jpg,shape_7.jpg,20.7949,154.013,145.2477,2,7,"Distortion, Omission, Integration Failure"
+page-00028,shape_3.jpg,shape_7.jpg,5.9558,154.013,141.9463,2,1,Omission
+page-00028,shape_6.jpg,shape_7.jpg,20.5388,154.013,142.1729,2,1,"Distortion, Omission"
+page-00028,shape_9.jpg,shape_7.jpg,20.4909,154.013,135.3037,2,5,"Distortion, Omission, Integration Failure"
+page-00029,shape_8.jpg,shape_0.jpg,5.8464,149.8032,201.5049,1,1,Perseveration
 page-00029,shape_5.jpg,shape_2.jpg,21.4609,130.2306,207.4862,35,6,"Distortion, Perseveration"
-page-00029,shape_0.jpg,shape_6.jpg,8.4451,133.3604,177.8289,13,4,"Distortion, Perseveration"
-page-00029,shape_1.jpg,shape_7.jpg,20.5342,154.013,145.6729,2,1,"Distortion, Perseveration"
-page-00029,shape_2.jpg,shape_7.jpg,20.5416,154.013,143.2079,2,1,"Distortion, Perseveration"
-page-00029,shape_4.jpg,shape_7.jpg,20.5441,154.013,143.3084,2,1,"Distortion, Perseveration"
-page-00029,shape_6.jpg,shape_7.jpg,20.5057,154.013,141.1846,2,4,"Distortion, Integration Failure, Perseveration"
-page-00029,shape_7.jpg,shape_7.jpg,20.5552,154.013,141.7593,2,4,"Distortion, Integration Failure, Perseveration"
-page-00029,shape_3.jpg,shape_8.jpg,6.8032,138.0036,174.1557,3,5,"Distortion, Integration Failure, Perseveration"
-page-0003,shape_0.jpg,shape_0.jpg,5.3403,149.8032,196.9279,1,3,"Distortion, Integration Failure, Perseveration"
-page-0003,shape_1.jpg,shape_0.jpg,5.75,149.8032,194.1049,1,6,"Distortion, Integration Failure, Perseveration"
-page-0003,shape_3.jpg,shape_0.jpg,5.67,149.8032,203.0164,1,1,"Distortion, Perseveration"
-page-0003,shape_6.jpg,shape_0.jpg,5.9801,149.8032,207.6787,1,1,"Distortion, Perseveration"
-page-0003,shape_4.jpg,shape_2.jpg,8.0625,130.2306,216.269,35,1,"Distortion, Perseveration"
-page-0003,shape_7.jpg,shape_2.jpg,8.0664,130.2306,211.5,35,2,"Distortion, Perseveration"
-page-0003,shape_2.jpg,shape_7.jpg,20.4948,154.013,143.4953,2,3,"Distortion, Integration Failure, Perseveration"
-page-0003,shape_5.jpg,shape_7.jpg,20.5305,154.013,142.9603,2,2,"Distortion, Perseveration"
-page-00030,shape_5.jpg,shape_0.jpg,5.9831,149.8032,208.7475,1,1,"Distortion, Perseveration"
-page-00030,shape_6.jpg,shape_0.jpg,5.8991,149.8032,204.141,1,2,"Distortion, Integration Failure, Perseveration"
+page-00029,shape_0.jpg,shape_6.jpg,8.4451,133.3604,177.8289,13,4,Omission
+page-00029,shape_1.jpg,shape_7.jpg,20.5342,154.013,145.6729,2,1,"Distortion, Omission"
+page-00029,shape_2.jpg,shape_7.jpg,20.5416,154.013,143.2079,2,1,"Distortion, Omission"
+page-00029,shape_4.jpg,shape_7.jpg,20.5441,154.013,143.3084,2,1,"Distortion, Omission"
+page-00029,shape_6.jpg,shape_7.jpg,20.5057,154.013,141.1846,2,4,"Distortion, Omission, Integration Failure"
+page-00029,shape_7.jpg,shape_7.jpg,20.5552,154.013,141.7593,2,4,"Distortion, Omission, Integration Failure"
+page-00029,shape_3.jpg,shape_8.jpg,6.8032,138.0036,174.1557,3,5,"Omission, Integration Failure"
+page-0003,shape_0.jpg,shape_0.jpg,5.3403,149.8032,196.9279,1,3,"Integration Failure, Perseveration"
+page-0003,shape_1.jpg,shape_0.jpg,5.75,149.8032,194.1049,1,6,"Integration Failure, Perseveration"
+page-0003,shape_3.jpg,shape_0.jpg,5.67,149.8032,203.0164,1,1,Perseveration
+page-0003,shape_6.jpg,shape_0.jpg,5.9801,149.8032,207.6787,1,1,Perseveration
+page-0003,shape_4.jpg,shape_2.jpg,8.0625,130.2306,216.269,35,1,Perseveration
+page-0003,shape_7.jpg,shape_2.jpg,8.0664,130.2306,211.5,35,2,Perseveration
+page-0003,shape_2.jpg,shape_7.jpg,20.4948,154.013,143.4953,2,3,"Distortion, Omission, Integration Failure"
+page-0003,shape_5.jpg,shape_7.jpg,20.5305,154.013,142.9603,2,2,"Distortion, Omission"
+page-00030,shape_5.jpg,shape_0.jpg,5.9831,149.8032,208.7475,1,1,Perseveration
+page-00030,shape_6.jpg,shape_0.jpg,5.8991,149.8032,204.141,1,2,"Integration Failure, Perseveration"
 page-00030,shape_0.jpg,shape_2.jpg,21.5399,130.2306,205.7966,35,3,"Distortion, Perseveration"
 page-00030,shape_2.jpg,shape_2.jpg,21.5702,130.2306,217.6345,35,1,"Distortion, Perseveration"
 page-00030,shape_7.jpg,shape_2.jpg,21.5006,130.2306,209.4828,35,2,"Distortion, Perseveration"
-page-00030,shape_1.jpg,shape_7.jpg,20.8939,154.013,149.1869,2,1,"Distortion, Perseveration"
-page-00030,shape_3.jpg,shape_7.jpg,20.4822,154.013,145.5748,2,1,"Distortion, Perseveration"
-page-00030,shape_4.jpg,shape_7.jpg,5.8536,154.013,140.764,2,4,"Distortion, Integration Failure, Perseveration"
+page-00030,shape_1.jpg,shape_7.jpg,20.8939,154.013,149.1869,2,1,"Distortion, Omission"
+page-00030,shape_3.jpg,shape_7.jpg,20.4822,154.013,145.5748,2,1,"Distortion, Omission"
+page-00030,shape_4.jpg,shape_7.jpg,5.8536,154.013,140.764,2,4,"Omission, Integration Failure"
 page-00031,shape_4.jpg,shape_2.jpg,21.4322,130.2306,211.7862,35,1,"Distortion, Perseveration"
-page-00031,shape_2.jpg,shape_6.jpg,8.5104,133.3604,185.6755,13,1,"Distortion, Perseveration"
-page-00031,shape_3.jpg,shape_6.jpg,8.501,133.3604,178.5693,13,14,"Distortion, Integration Failure, Perseveration"
-page-00031,shape_6.jpg,shape_6.jpg,8.5192,133.3604,181.7965,13,1,"Distortion, Perseveration"
-page-00031,shape_8.jpg,shape_6.jpg,8.4032,133.3604,173.059,13,1,"Distortion, Perseveration"
-page-00031,shape_9.jpg,shape_6.jpg,7.9419,133.3604,177.1032,13,1,"Distortion, Perseveration"
-page-00031,shape_0.jpg,shape_7.jpg,6.0973,154.013,145.236,2,1,"Distortion, Perseveration"
-page-00031,shape_5.jpg,shape_7.jpg,20.4434,154.013,141.7921,2,7,"Distortion, Integration Failure, Perseveration"
-page-00031,shape_7.jpg,shape_7.jpg,20.5039,154.013,139.8598,2,6,"Distortion, Integration Failure, Perseveration"
-page-00031,shape_1.jpg,shape_8.jpg,6.6644,138.0036,180.2635,3,5,"Distortion, Integration Failure, Perseveration"
-page-00032,shape_0.jpg,shape_0.jpg,5.3625,149.8032,191.7115,1,23,"Distortion, Integration Failure, Perseveration"
-page-00032,shape_2.jpg,shape_0.jpg,5.9681,149.8032,199.0689,1,3,"Distortion, Integration Failure, Perseveration"
-page-00032,shape_5.jpg,shape_0.jpg,5.9767,149.8032,203.7672,1,3,"Distortion, Integration Failure, Perseveration"
-page-00032,shape_3.jpg,shape_6.jpg,8.4861,133.3604,187.6991,13,1,"Distortion, Perseveration"
-page-00032,shape_7.jpg,shape_6.jpg,8.4808,133.3604,174.8024,13,1,"Distortion, Perseveration"
-page-00032,shape_8.jpg,shape_6.jpg,7.9701,133.3604,177.6903,13,1,"Distortion, Perseveration"
-page-00032,shape_1.jpg,shape_7.jpg,5.8033,154.013,144.5023,2,1,"Distortion, Perseveration"
-page-00032,shape_4.jpg,shape_7.jpg,20.8342,154.013,142.2734,2,4,"Distortion, Integration Failure, Perseveration"
-page-00032,shape_6.jpg,shape_7.jpg,5.7258,154.013,140.2757,2,4,"Distortion, Integration Failure, Perseveration"
-page-00033,shape_1.jpg,shape_0.jpg,5.9976,149.8032,204.4492,1,1,"Distortion, Perseveration"
-page-00033,shape_0.jpg,shape_2.jpg,7.9476,130.2306,208.0,35,1,"Distortion, Perseveration"
+page-00031,shape_2.jpg,shape_6.jpg,8.5104,133.3604,185.6755,13,1,No Significant Errors
+page-00031,shape_3.jpg,shape_6.jpg,8.501,133.3604,178.5693,13,14,"Omission, Integration Failure"
+page-00031,shape_6.jpg,shape_6.jpg,8.5192,133.3604,181.7965,13,1,No Significant Errors
+page-00031,shape_8.jpg,shape_6.jpg,8.4032,133.3604,173.059,13,1,Omission
+page-00031,shape_9.jpg,shape_6.jpg,7.9419,133.3604,177.1032,13,1,Omission
+page-00031,shape_0.jpg,shape_7.jpg,6.0973,154.013,145.236,2,1,Omission
+page-00031,shape_5.jpg,shape_7.jpg,20.4434,154.013,141.7921,2,7,"Distortion, Omission, Integration Failure"
+page-00031,shape_7.jpg,shape_7.jpg,20.5039,154.013,139.8598,2,6,"Distortion, Omission, Integration Failure"
+page-00031,shape_1.jpg,shape_8.jpg,6.6644,138.0036,180.2635,3,5,Integration Failure
+page-00032,shape_0.jpg,shape_0.jpg,5.3625,149.8032,191.7115,1,23,"Integration Failure, Perseveration"
+page-00032,shape_2.jpg,shape_0.jpg,5.9681,149.8032,199.0689,1,3,"Integration Failure, Perseveration"
+page-00032,shape_5.jpg,shape_0.jpg,5.9767,149.8032,203.7672,1,3,"Integration Failure, Perseveration"
+page-00032,shape_3.jpg,shape_6.jpg,8.4861,133.3604,187.6991,13,1,No Significant Errors
+page-00032,shape_7.jpg,shape_6.jpg,8.4808,133.3604,174.8024,13,1,Omission
+page-00032,shape_8.jpg,shape_6.jpg,7.9701,133.3604,177.6903,13,1,Omission
+page-00032,shape_1.jpg,shape_7.jpg,5.8033,154.013,144.5023,2,1,Omission
+page-00032,shape_4.jpg,shape_7.jpg,20.8342,154.013,142.2734,2,4,"Distortion, Omission, Integration Failure"
+page-00032,shape_6.jpg,shape_7.jpg,5.7258,154.013,140.2757,2,4,"Omission, Integration Failure"
+page-00033,shape_1.jpg,shape_0.jpg,5.9976,149.8032,204.4492,1,1,Perseveration
+page-00033,shape_0.jpg,shape_2.jpg,7.9476,130.2306,208.0,35,1,Perseveration
 page-00033,shape_5.jpg,shape_2.jpg,21.5728,130.2306,216.4586,35,2,"Distortion, Perseveration"
 page-00033,shape_8.jpg,shape_2.jpg,21.4556,130.2306,205.4241,35,3,"Distortion, Perseveration"
-page-00033,shape_2.jpg,shape_6.jpg,8.2191,133.3604,176.236,13,4,"Distortion, Perseveration"
-page-00033,shape_7.jpg,shape_6.jpg,8.4485,133.3604,187.0265,13,1,"Distortion, Perseveration"
-page-00033,shape_9.jpg,shape_6.jpg,7.9916,133.3604,177.9381,13,1,"Distortion, Perseveration"
-page-00033,shape_4.jpg,shape_7.jpg,20.8826,154.013,137.4813,2,4,"Distortion, Integration Failure, Perseveration"
-page-00033,shape_6.jpg,shape_7.jpg,20.5539,154.013,146.6986,2,1,"Distortion, Perseveration"
-page-00033,shape_3.jpg,shape_8.jpg,6.5603,138.0036,186.6138,3,4,"Distortion, Integration Failure, Perseveration"
-page-00034,shape_3.jpg,shape_0.jpg,5.4941,149.8032,199.5639,1,1,"Distortion, Perseveration"
+page-00033,shape_2.jpg,shape_6.jpg,8.2191,133.3604,176.236,13,4,Omission
+page-00033,shape_7.jpg,shape_6.jpg,8.4485,133.3604,187.0265,13,1,No Significant Errors
+page-00033,shape_9.jpg,shape_6.jpg,7.9916,133.3604,177.9381,13,1,Omission
+page-00033,shape_4.jpg,shape_7.jpg,20.8826,154.013,137.4813,2,4,"Distortion, Omission, Integration Failure"
+page-00033,shape_6.jpg,shape_7.jpg,20.5539,154.013,146.6986,2,1,"Distortion, Omission"
+page-00033,shape_3.jpg,shape_8.jpg,6.5603,138.0036,186.6138,3,4,Integration Failure
+page-00034,shape_3.jpg,shape_0.jpg,5.4941,149.8032,199.5639,1,1,Perseveration
 page-00034,shape_7.jpg,shape_2.jpg,21.5547,130.2306,207.8,35,3,"Distortion, Perseveration"
-page-00034,shape_4.jpg,shape_6.jpg,8.4057,133.3604,180.5103,13,1,"Distortion, Perseveration"
-page-00034,shape_8.jpg,shape_6.jpg,8.4989,133.3604,177.8968,13,4,"Distortion, Perseveration"
-page-00034,shape_0.jpg,shape_7.jpg,20.5286,154.013,146.8645,2,1,"Distortion, Perseveration"
-page-00034,shape_2.jpg,shape_7.jpg,5.7921,154.013,139.7407,2,4,"Distortion, Integration Failure, Perseveration"
-page-00034,shape_5.jpg,shape_7.jpg,20.8828,154.013,139.6472,2,4,"Distortion, Integration Failure, Perseveration"
-page-00034,shape_6.jpg,shape_7.jpg,20.4834,154.013,143.8598,2,4,"Distortion, Integration Failure, Perseveration"
-page-00034,shape_1.jpg,shape_8.jpg,6.6777,138.0036,180.0539,3,1,"Distortion, Perseveration"
+page-00034,shape_4.jpg,shape_6.jpg,8.4057,133.3604,180.5103,13,1,No Significant Errors
+page-00034,shape_8.jpg,shape_6.jpg,8.4989,133.3604,177.8968,13,4,Omission
+page-00034,shape_0.jpg,shape_7.jpg,20.5286,154.013,146.8645,2,1,"Distortion, Omission"
+page-00034,shape_2.jpg,shape_7.jpg,5.7921,154.013,139.7407,2,4,"Omission, Integration Failure"
+page-00034,shape_5.jpg,shape_7.jpg,20.8828,154.013,139.6472,2,4,"Distortion, Omission, Integration Failure"
+page-00034,shape_6.jpg,shape_7.jpg,20.4834,154.013,143.8598,2,4,"Distortion, Omission, Integration Failure"
+page-00034,shape_1.jpg,shape_8.jpg,6.6777,138.0036,180.0539,3,1,No Significant Errors
 page-00035,shape_0.jpg,shape_2.jpg,21.4935,130.2306,209.0552,35,9,"Distortion, Perseveration"
-page-00035,shape_7.jpg,shape_2.jpg,7.5716,130.2306,204.2103,35,10,"Distortion, Perseveration"
-page-00035,shape_10.jpg,shape_6.jpg,8.3555,133.3604,177.6785,13,3,"Distortion, Perseveration"
-page-00035,shape_3.jpg,shape_6.jpg,8.2411,133.3604,181.3894,13,1,"Distortion, Perseveration"
-page-00035,shape_1.jpg,shape_7.jpg,5.9732,154.013,146.0935,2,4,"Distortion, Integration Failure, Perseveration"
-page-00035,shape_4.jpg,shape_7.jpg,5.8444,154.013,140.472,2,2,"Distortion, Perseveration"
-page-00035,shape_5.jpg,shape_7.jpg,20.8938,154.013,138.5935,2,9,"Distortion, Integration Failure, Perseveration"
-page-00035,shape_6.jpg,shape_7.jpg,20.5221,154.013,145.3154,2,1,"Distortion, Perseveration"
-page-00035,shape_8.jpg,shape_7.jpg,20.3151,154.013,136.8879,2,9,"Distortion, Integration Failure, Perseveration"
-page-00035,shape_9.jpg,shape_7.jpg,20.4251,154.013,143.743,2,15,"Distortion, Integration Failure, Perseveration"
-page-00035,shape_2.jpg,shape_8.jpg,6.77,138.0036,189.8413,3,1,"Distortion, Perseveration"
-page-00036,shape_0.jpg,shape_2.jpg,7.8965,130.2306,197.2586,35,6,"Distortion, Perseveration"
+page-00035,shape_7.jpg,shape_2.jpg,7.5716,130.2306,204.2103,35,10,Perseveration
+page-00035,shape_10.jpg,shape_6.jpg,8.3555,133.3604,177.6785,13,3,Omission
+page-00035,shape_3.jpg,shape_6.jpg,8.2411,133.3604,181.3894,13,1,No Significant Errors
+page-00035,shape_1.jpg,shape_7.jpg,5.9732,154.013,146.0935,2,4,"Omission, Integration Failure"
+page-00035,shape_4.jpg,shape_7.jpg,5.8444,154.013,140.472,2,2,Omission
+page-00035,shape_5.jpg,shape_7.jpg,20.8938,154.013,138.5935,2,9,"Distortion, Omission, Integration Failure"
+page-00035,shape_6.jpg,shape_7.jpg,20.5221,154.013,145.3154,2,1,"Distortion, Omission"
+page-00035,shape_8.jpg,shape_7.jpg,20.3151,154.013,136.8879,2,9,"Distortion, Omission, Integration Failure"
+page-00035,shape_9.jpg,shape_7.jpg,20.4251,154.013,143.743,2,15,"Distortion, Omission, Integration Failure"
+page-00035,shape_2.jpg,shape_8.jpg,6.77,138.0036,189.8413,3,1,No Significant Errors
+page-00036,shape_0.jpg,shape_2.jpg,7.8965,130.2306,197.2586,35,6,Perseveration
 page-00036,shape_1.jpg,shape_2.jpg,21.5486,130.2306,197.9103,35,4,"Distortion, Perseveration"
 page-00036,shape_2.jpg,shape_2.jpg,21.444,130.2306,213.6621,35,4,"Distortion, Perseveration"
-page-00036,shape_3.jpg,shape_2.jpg,7.6205,130.2306,204.5862,35,1,"Distortion, Perseveration"
+page-00036,shape_3.jpg,shape_2.jpg,7.6205,130.2306,204.5862,35,1,Perseveration
 page-00036,shape_4.jpg,shape_2.jpg,21.5818,130.2306,208.131,35,29,"Distortion, Perseveration"
-page-00036,shape_5.jpg,shape_6.jpg,8.2109,133.3604,171.5074,13,6,"Distortion, Perseveration"
+page-00036,shape_5.jpg,shape_6.jpg,8.2109,133.3604,171.5074,13,6,Omission
 page-00037,shape_0.jpg,shape_2.jpg,21.382,130.2306,202.8862,35,6,"Distortion, Perseveration"
-page-00037,shape_4.jpg,shape_2.jpg,8.1032,130.2306,206.1,35,17,"Distortion, Perseveration"
-page-00037,shape_2.jpg,shape_7.jpg,20.3956,154.013,141.3014,2,2,"Distortion, Perseveration"
-page-00037,shape_3.jpg,shape_7.jpg,5.8384,154.013,140.2897,2,5,"Distortion, Integration Failure, Perseveration"
-page-00037,shape_5.jpg,shape_7.jpg,20.5302,154.013,144.7243,2,1,"Distortion, Perseveration"
-page-00037,shape_1.jpg,shape_8.jpg,6.3689,138.0036,179.0838,3,10,"Distortion, Integration Failure, Perseveration"
+page-00037,shape_4.jpg,shape_2.jpg,8.1032,130.2306,206.1,35,17,Perseveration
+page-00037,shape_2.jpg,shape_7.jpg,20.3956,154.013,141.3014,2,2,"Distortion, Omission"
+page-00037,shape_3.jpg,shape_7.jpg,5.8384,154.013,140.2897,2,5,"Omission, Integration Failure"
+page-00037,shape_5.jpg,shape_7.jpg,20.5302,154.013,144.7243,2,1,"Distortion, Omission"
+page-00037,shape_1.jpg,shape_8.jpg,6.3689,138.0036,179.0838,3,10,"Omission, Integration Failure"
 page-00038,shape_1.jpg,shape_2.jpg,21.5778,130.2306,215.2276,35,1,"Distortion, Perseveration"
 page-00038,shape_3.jpg,shape_2.jpg,21.5852,130.2306,212.6069,35,1,"Distortion, Perseveration"
 page-00038,shape_7.jpg,shape_2.jpg,21.5784,129.5531,204.9793,35,8,"Distortion, Perseveration"
 page-00038,shape_8.jpg,shape_2.jpg,21.5323,130.2306,216.7138,35,1,"Distortion, Perseveration"
-page-00038,shape_4.jpg,shape_6.jpg,8.2663,133.3604,174.1475,13,4,"Distortion, Perseveration"
-page-00038,shape_6.jpg,shape_6.jpg,8.4926,133.3604,187.8555,13,1,"Distortion, Perseveration"
-page-00038,shape_0.jpg,shape_7.jpg,20.8815,154.013,139.4673,2,4,"Distortion, Integration Failure, Perseveration"
-page-00038,shape_2.jpg,shape_7.jpg,6.0417,154.013,146.3808,2,1,"Distortion, Perseveration"
-page-00038,shape_5.jpg,shape_7.jpg,20.4361,154.013,147.9439,2,1,"Distortion, Perseveration"
-page-00039,shape_2.jpg,shape_0.jpg,5.6988,149.8032,196.4492,1,1,"Distortion, Perseveration"
-page-00039,shape_3.jpg,shape_2.jpg,7.8929,130.2306,208.9034,35,1,"Distortion, Perseveration"
+page-00038,shape_4.jpg,shape_6.jpg,8.2663,133.3604,174.1475,13,4,Omission
+page-00038,shape_6.jpg,shape_6.jpg,8.4926,133.3604,187.8555,13,1,No Significant Errors
+page-00038,shape_0.jpg,shape_7.jpg,20.8815,154.013,139.4673,2,4,"Distortion, Omission, Integration Failure"
+page-00038,shape_2.jpg,shape_7.jpg,6.0417,154.013,146.3808,2,1,Omission
+page-00038,shape_5.jpg,shape_7.jpg,20.4361,154.013,147.9439,2,1,"Distortion, Omission"
+page-00039,shape_2.jpg,shape_0.jpg,5.6988,149.8032,196.4492,1,1,Perseveration
+page-00039,shape_3.jpg,shape_2.jpg,7.8929,130.2306,208.9034,35,1,Perseveration
 page-00039,shape_8.jpg,shape_2.jpg,21.4524,130.2306,196.0517,35,6,"Distortion, Perseveration"
-page-00039,shape_6.jpg,shape_6.jpg,8.4671,133.3604,183.8997,13,1,"Distortion, Perseveration"
-page-00039,shape_0.jpg,shape_7.jpg,6.0008,154.013,138.778,2,7,"Distortion, Integration Failure, Perseveration"
-page-00039,shape_5.jpg,shape_7.jpg,20.541,154.013,141.1262,2,37,"Distortion, Integration Failure, Perseveration"
-page-00039,shape_7.jpg,shape_7.jpg,20.4438,154.013,141.1238,2,1,"Distortion, Perseveration"
-page-00039,shape_1.jpg,shape_8.jpg,6.505,138.0036,177.0808,3,4,"Distortion, Integration Failure, Perseveration"
-page-00039,shape_4.jpg,shape_8.jpg,6.5976,138.0036,186.2994,3,1,"Distortion, Perseveration"
-page-0004,shape_0.jpg,shape_0.jpg,5.7556,149.8032,198.1148,1,2,"Distortion, Integration Failure, Perseveration"
-page-0004,shape_1.jpg,shape_0.jpg,5.633,149.8032,192.4984,1,4,"Distortion, Integration Failure, Perseveration"
-page-0004,shape_3.jpg,shape_2.jpg,7.8988,130.2306,219.9172,35,2,"Distortion, Perseveration"
-page-0004,shape_5.jpg,shape_6.jpg,8.3724,133.3604,181.1947,13,17,"Distortion, Integration Failure, Perseveration"
-page-0004,shape_4.jpg,shape_7.jpg,20.7813,154.013,138.9836,2,6,"Distortion, Integration Failure, Perseveration"
-page-0004,shape_2.jpg,shape_8.jpg,6.7053,137.4118,186.9251,3,5,"Distortion, Integration Failure, Perseveration"
-page-00040,shape_0.jpg,shape_0.jpg,5.5396,149.8032,190.8197,1,4,"Distortion, Integration Failure, Perseveration"
-page-00040,shape_4.jpg,shape_0.jpg,5.8871,149.8032,206.7738,1,1,"Distortion, Perseveration"
-page-00040,shape_1.jpg,shape_2.jpg,7.8883,130.2306,208.1724,35,3,"Distortion, Perseveration"
-page-00040,shape_2.jpg,shape_7.jpg,20.513,154.013,148.1028,2,2,"Distortion, Perseveration"
-page-00040,shape_3.jpg,shape_7.jpg,6.0676,154.013,146.9112,2,1,"Distortion, Perseveration"
-page-00040,shape_5.jpg,shape_7.jpg,20.523,154.013,144.1075,2,2,"Distortion, Perseveration"
-page-00040,shape_6.jpg,shape_7.jpg,20.4779,154.013,139.3832,2,7,"Distortion, Integration Failure, Perseveration"
-page-00040,shape_7.jpg,shape_7.jpg,20.478,154.013,135.236,2,7,"Distortion, Integration Failure, Perseveration"
-page-00040,shape_8.jpg,shape_7.jpg,5.8861,154.013,139.9463,2,3,"Distortion, Integration Failure, Perseveration"
-page-00041,shape_0.jpg,shape_2.jpg,7.6467,130.2306,211.1483,35,1,"Distortion, Perseveration"
-page-00041,shape_2.jpg,shape_2.jpg,7.7224,130.2306,206.0828,35,34,"Distortion, Perseveration"
-page-00041,shape_3.jpg,shape_2.jpg,7.9887,130.2306,206.9448,35,1,"Distortion, Perseveration"
-page-00041,shape_4.jpg,shape_2.jpg,7.9906,130.2306,206.7793,35,3,"Distortion, Perseveration"
-page-00041,shape_1.jpg,shape_8.jpg,6.7032,138.0036,186.4701,3,11,"Distortion, Integration Failure, Perseveration"
-page-00042,shape_2.jpg,shape_0.jpg,5.84,149.8032,206.518,1,1,"Distortion, Perseveration"
+page-00039,shape_6.jpg,shape_6.jpg,8.4671,133.3604,183.8997,13,1,No Significant Errors
+page-00039,shape_0.jpg,shape_7.jpg,6.0008,154.013,138.778,2,7,"Omission, Integration Failure"
+page-00039,shape_5.jpg,shape_7.jpg,20.541,154.013,141.1262,2,37,"Distortion, Omission, Integration Failure"
+page-00039,shape_7.jpg,shape_7.jpg,20.4438,154.013,141.1238,2,1,"Distortion, Omission"
+page-00039,shape_1.jpg,shape_8.jpg,6.505,138.0036,177.0808,3,4,"Omission, Integration Failure"
+page-00039,shape_4.jpg,shape_8.jpg,6.5976,138.0036,186.2994,3,1,No Significant Errors
+page-0004,shape_0.jpg,shape_0.jpg,5.7556,149.8032,198.1148,1,2,"Integration Failure, Perseveration"
+page-0004,shape_1.jpg,shape_0.jpg,5.633,149.8032,192.4984,1,4,"Integration Failure, Perseveration"
+page-0004,shape_3.jpg,shape_2.jpg,7.8988,130.2306,219.9172,35,2,Perseveration
+page-0004,shape_5.jpg,shape_6.jpg,8.3724,133.3604,181.1947,13,17,Integration Failure
+page-0004,shape_4.jpg,shape_7.jpg,20.7813,154.013,138.9836,2,6,"Distortion, Omission, Integration Failure"
+page-0004,shape_2.jpg,shape_8.jpg,6.7053,137.4118,186.9251,3,5,Integration Failure
+page-00040,shape_0.jpg,shape_0.jpg,5.5396,149.8032,190.8197,1,4,"Integration Failure, Perseveration"
+page-00040,shape_4.jpg,shape_0.jpg,5.8871,149.8032,206.7738,1,1,Perseveration
+page-00040,shape_1.jpg,shape_2.jpg,7.8883,130.2306,208.1724,35,3,Perseveration
+page-00040,shape_2.jpg,shape_7.jpg,20.513,154.013,148.1028,2,2,"Distortion, Omission"
+page-00040,shape_3.jpg,shape_7.jpg,6.0676,154.013,146.9112,2,1,Omission
+page-00040,shape_5.jpg,shape_7.jpg,20.523,154.013,144.1075,2,2,"Distortion, Omission"
+page-00040,shape_6.jpg,shape_7.jpg,20.4779,154.013,139.3832,2,7,"Distortion, Omission, Integration Failure"
+page-00040,shape_7.jpg,shape_7.jpg,20.478,154.013,135.236,2,7,"Distortion, Omission, Integration Failure"
+page-00040,shape_8.jpg,shape_7.jpg,5.8861,154.013,139.9463,2,3,"Omission, Integration Failure"
+page-00041,shape_0.jpg,shape_2.jpg,7.6467,130.2306,211.1483,35,1,Perseveration
+page-00041,shape_2.jpg,shape_2.jpg,7.7224,130.2306,206.0828,35,34,Perseveration
+page-00041,shape_3.jpg,shape_2.jpg,7.9887,130.2306,206.9448,35,1,Perseveration
+page-00041,shape_4.jpg,shape_2.jpg,7.9906,130.2306,206.7793,35,3,Perseveration
+page-00041,shape_1.jpg,shape_8.jpg,6.7032,138.0036,186.4701,3,11,Integration Failure
+page-00042,shape_2.jpg,shape_0.jpg,5.84,149.8032,206.518,1,1,Perseveration
 page-00042,shape_0.jpg,shape_2.jpg,21.3476,130.2306,204.3931,35,4,"Distortion, Perseveration"
 page-00042,shape_10.jpg,shape_2.jpg,21.5033,130.2306,202.7207,35,4,"Distortion, Perseveration"
-page-00042,shape_7.jpg,shape_2.jpg,8.0269,130.2306,207.131,35,3,"Distortion, Perseveration"
-page-00042,shape_9.jpg,shape_6.jpg,8.5152,133.3604,183.8938,13,1,"Distortion, Perseveration"
-page-00042,shape_1.jpg,shape_7.jpg,20.5245,154.013,145.8131,2,1,"Distortion, Perseveration"
-page-00042,shape_11.jpg,shape_7.jpg,20.8997,154.013,141.2874,2,1,"Distortion, Perseveration"
-page-00042,shape_4.jpg,shape_7.jpg,20.9066,154.013,150.5514,2,1,"Distortion, Perseveration"
-page-00042,shape_5.jpg,shape_7.jpg,6.0134,154.013,137.2009,2,1,"Distortion, Perseveration"
-page-00042,shape_6.jpg,shape_7.jpg,20.8709,154.013,144.6589,2,2,"Distortion, Perseveration"
-page-00042,shape_8.jpg,shape_7.jpg,5.9782,154.013,143.4907,2,1,"Distortion, Perseveration"
-page-00042,shape_3.jpg,shape_8.jpg,6.7804,138.0036,185.1647,3,9,"Distortion, Integration Failure, Perseveration"
-page-00043,shape_1.jpg,shape_0.jpg,5.3619,149.8032,198.6426,1,1,"Distortion, Perseveration"
-page-00043,shape_7.jpg,shape_0.jpg,6.0038,149.8032,207.1672,1,1,"Distortion, Perseveration"
-page-00043,shape_0.jpg,shape_2.jpg,7.8836,130.2306,203.6414,35,4,"Distortion, Perseveration"
-page-00043,shape_3.jpg,shape_2.jpg,8.0783,130.2306,216.1828,35,5,"Distortion, Perseveration"
+page-00042,shape_7.jpg,shape_2.jpg,8.0269,130.2306,207.131,35,3,Perseveration
+page-00042,shape_9.jpg,shape_6.jpg,8.5152,133.3604,183.8938,13,1,No Significant Errors
+page-00042,shape_1.jpg,shape_7.jpg,20.5245,154.013,145.8131,2,1,"Distortion, Omission"
+page-00042,shape_11.jpg,shape_7.jpg,20.8997,154.013,141.2874,2,1,"Distortion, Omission"
+page-00042,shape_4.jpg,shape_7.jpg,20.9066,154.013,150.5514,2,1,"Distortion, Omission"
+page-00042,shape_5.jpg,shape_7.jpg,6.0134,154.013,137.2009,2,1,Omission
+page-00042,shape_6.jpg,shape_7.jpg,20.8709,154.013,144.6589,2,2,"Distortion, Omission"
+page-00042,shape_8.jpg,shape_7.jpg,5.9782,154.013,143.4907,2,1,Omission
+page-00042,shape_3.jpg,shape_8.jpg,6.7804,138.0036,185.1647,3,9,Integration Failure
+page-00043,shape_1.jpg,shape_0.jpg,5.3619,149.8032,198.6426,1,1,Perseveration
+page-00043,shape_7.jpg,shape_0.jpg,6.0038,149.8032,207.1672,1,1,Perseveration
+page-00043,shape_0.jpg,shape_2.jpg,7.8836,130.2306,203.6414,35,4,Perseveration
+page-00043,shape_3.jpg,shape_2.jpg,8.0783,130.2306,216.1828,35,5,Perseveration
 page-00043,shape_4.jpg,shape_2.jpg,21.5817,130.2306,215.3379,35,1,"Distortion, Perseveration"
-page-00043,shape_2.jpg,shape_6.jpg,8.3631,133.3604,176.059,13,5,"Distortion, Perseveration"
-page-00043,shape_8.jpg,shape_6.jpg,8.0508,133.3604,173.2242,13,23,"Distortion, Integration Failure, Perseveration"
-page-00043,shape_6.jpg,shape_7.jpg,20.86,154.013,145.1799,2,1,"Distortion, Perseveration"
-page-00043,shape_9.jpg,shape_7.jpg,20.5123,154.013,143.7196,2,3,"Distortion, Integration Failure, Perseveration"
-page-00043,shape_5.jpg,shape_8.jpg,6.875,138.0036,190.2754,3,1,"Distortion, Perseveration"
-page-00044,shape_10.jpg,shape_0.jpg,5.4266,149.8032,192.4557,1,7,"Distortion, Integration Failure, Perseveration"
-page-00044,shape_2.jpg,shape_0.jpg,5.2302,149.8032,202.6,1,3,"Distortion, Integration Failure, Perseveration"
-page-00044,shape_9.jpg,shape_0.jpg,5.534,149.8032,191.0754,1,8,"Distortion, Integration Failure, Perseveration"
+page-00043,shape_2.jpg,shape_6.jpg,8.3631,133.3604,176.059,13,5,Omission
+page-00043,shape_8.jpg,shape_6.jpg,8.0508,133.3604,173.2242,13,23,"Omission, Integration Failure"
+page-00043,shape_6.jpg,shape_7.jpg,20.86,154.013,145.1799,2,1,"Distortion, Omission"
+page-00043,shape_9.jpg,shape_7.jpg,20.5123,154.013,143.7196,2,3,"Distortion, Omission, Integration Failure"
+page-00043,shape_5.jpg,shape_8.jpg,6.875,138.0036,190.2754,3,1,Perseveration
+page-00044,shape_10.jpg,shape_0.jpg,5.4266,149.8032,192.4557,1,7,"Integration Failure, Perseveration"
+page-00044,shape_2.jpg,shape_0.jpg,5.2302,149.8032,202.6,1,3,"Integration Failure, Perseveration"
+page-00044,shape_9.jpg,shape_0.jpg,5.534,149.8032,191.0754,1,8,"Integration Failure, Perseveration"
 page-00044,shape_0.jpg,shape_2.jpg,21.4255,130.2306,195.1586,35,5,"Distortion, Perseveration"
 page-00044,shape_11.jpg,shape_2.jpg,21.47,130.2306,203.731,35,3,"Distortion, Perseveration"
-page-00044,shape_4.jpg,shape_2.jpg,7.8843,130.2306,217.0138,35,1,"Distortion, Perseveration"
+page-00044,shape_4.jpg,shape_2.jpg,7.8843,130.2306,217.0138,35,1,Perseveration
 page-00044,shape_5.jpg,shape_2.jpg,21.5541,130.2306,206.931,35,12,"Distortion, Perseveration"
-page-00044,shape_1.jpg,shape_6.jpg,8.2926,133.3604,184.9115,13,6,"Distortion, Perseveration"
-page-00044,shape_6.jpg,shape_6.jpg,8.0147,133.3604,174.6106,13,15,"Distortion, Integration Failure, Perseveration"
-page-00044,shape_3.jpg,shape_7.jpg,5.9102,154.013,140.5678,2,6,"Distortion, Integration Failure, Perseveration"
-page-00044,shape_7.jpg,shape_7.jpg,5.5691,154.013,137.3388,2,8,"Distortion, Integration Failure, Perseveration"
-page-00044,shape_8.jpg,shape_8.jpg,6.2038,138.0036,174.2365,3,8,"Distortion, Integration Failure, Perseveration"
-page-00045,shape_0.jpg,shape_0.jpg,5.3957,149.8032,199.1475,1,1,"Distortion, Perseveration"
-page-00045,shape_2.jpg,shape_0.jpg,5.558,149.8032,203.0295,1,4,"Distortion, Integration Failure, Perseveration"
+page-00044,shape_1.jpg,shape_6.jpg,8.2926,133.3604,184.9115,13,6,No Significant Errors
+page-00044,shape_6.jpg,shape_6.jpg,8.0147,133.3604,174.6106,13,15,"Omission, Integration Failure"
+page-00044,shape_3.jpg,shape_7.jpg,5.9102,154.013,140.5678,2,6,"Omission, Integration Failure"
+page-00044,shape_7.jpg,shape_7.jpg,5.5691,154.013,137.3388,2,8,"Omission, Integration Failure"
+page-00044,shape_8.jpg,shape_8.jpg,6.2038,138.0036,174.2365,3,8,"Omission, Integration Failure"
+page-00045,shape_0.jpg,shape_0.jpg,5.3957,149.8032,199.1475,1,1,Perseveration
+page-00045,shape_2.jpg,shape_0.jpg,5.558,149.8032,203.0295,1,4,"Integration Failure, Perseveration"
 page-00045,shape_5.jpg,shape_2.jpg,21.4094,130.2306,205.6172,35,6,"Distortion, Perseveration"
-page-00045,shape_1.jpg,shape_7.jpg,20.8383,154.013,135.722,2,4,"Distortion, Integration Failure, Perseveration"
-page-00045,shape_3.jpg,shape_7.jpg,5.7315,154.013,142.5841,2,7,"Distortion, Integration Failure, Perseveration"
-page-00045,shape_4.jpg,shape_8.jpg,6.847,138.0036,189.009,3,1,"Distortion, Perseveration"
-page-00046,shape_1.jpg,shape_0.jpg,5.3766,149.8032,198.5475,1,1,"Distortion, Perseveration"
-page-00046,shape_5.jpg,shape_0.jpg,6.0279,149.8032,210.6197,1,1,"Distortion, Perseveration"
-page-00046,shape_0.jpg,shape_2.jpg,7.9049,130.2306,204.0034,35,3,"Distortion, Perseveration"
-page-00046,shape_2.jpg,shape_2.jpg,8.0548,130.2306,217.7483,35,1,"Distortion, Perseveration"
+page-00045,shape_1.jpg,shape_7.jpg,20.8383,154.013,135.722,2,4,"Distortion, Omission, Integration Failure"
+page-00045,shape_3.jpg,shape_7.jpg,5.7315,154.013,142.5841,2,7,"Omission, Integration Failure"
+page-00045,shape_4.jpg,shape_8.jpg,6.847,138.0036,189.009,3,1,No Significant Errors
+page-00046,shape_1.jpg,shape_0.jpg,5.3766,149.8032,198.5475,1,1,Perseveration
+page-00046,shape_5.jpg,shape_0.jpg,6.0279,149.8032,210.6197,1,1,Perseveration
+page-00046,shape_0.jpg,shape_2.jpg,7.9049,130.2306,204.0034,35,3,Perseveration
+page-00046,shape_2.jpg,shape_2.jpg,8.0548,130.2306,217.7483,35,1,Perseveration
 page-00046,shape_3.jpg,shape_2.jpg,21.5417,130.2306,214.8759,35,1,"Distortion, Perseveration"
-page-00046,shape_7.jpg,shape_2.jpg,8.0006,130.2306,209.9034,35,2,"Distortion, Perseveration"
-page-00046,shape_6.jpg,shape_6.jpg,8.347,133.3604,179.1445,13,21,"Distortion, Integration Failure, Perseveration"
-page-00046,shape_8.jpg,shape_7.jpg,20.8653,154.013,144.9136,2,2,"Distortion, Perseveration"
-page-00046,shape_4.jpg,shape_8.jpg,6.8754,138.0036,187.6497,3,1,"Distortion, Perseveration"
-page-00047,shape_0.jpg,shape_0.jpg,5.4707,149.8032,199.318,1,1,"Distortion, Perseveration"
-page-00047,shape_10.jpg,shape_0.jpg,5.9989,149.2146,196.7377,1,3,"Distortion, Integration Failure, Perseveration"
-page-00047,shape_2.jpg,shape_0.jpg,5.7675,149.8032,203.1902,1,2,"Distortion, Integration Failure, Perseveration"
-page-00047,shape_6.jpg,shape_0.jpg,6.0063,149.8032,200.7344,1,1,"Distortion, Perseveration"
-page-00047,shape_11.jpg,shape_2.jpg,8.0396,130.2306,215.2931,35,1,"Distortion, Perseveration"
+page-00046,shape_7.jpg,shape_2.jpg,8.0006,130.2306,209.9034,35,2,Perseveration
+page-00046,shape_6.jpg,shape_6.jpg,8.347,133.3604,179.1445,13,21,"Omission, Integration Failure"
+page-00046,shape_8.jpg,shape_7.jpg,20.8653,154.013,144.9136,2,2,"Distortion, Omission"
+page-00046,shape_4.jpg,shape_8.jpg,6.8754,138.0036,187.6497,3,1,No Significant Errors
+page-00047,shape_0.jpg,shape_0.jpg,5.4707,149.8032,199.318,1,1,Perseveration
+page-00047,shape_10.jpg,shape_0.jpg,5.9989,149.2146,196.7377,1,3,"Integration Failure, Perseveration"
+page-00047,shape_2.jpg,shape_0.jpg,5.7675,149.8032,203.1902,1,2,"Integration Failure, Perseveration"
+page-00047,shape_6.jpg,shape_0.jpg,6.0063,149.8032,200.7344,1,1,Perseveration
+page-00047,shape_11.jpg,shape_2.jpg,8.0396,130.2306,215.2931,35,1,Perseveration
 page-00047,shape_3.jpg,shape_2.jpg,21.4307,130.2306,204.6379,35,3,"Distortion, Perseveration"
-page-00047,shape_1.jpg,shape_6.jpg,8.2399,133.3604,174.3982,13,4,"Distortion, Perseveration"
-page-00047,shape_8.jpg,shape_6.jpg,8.3209,133.3604,176.3156,13,5,"Distortion, Perseveration"
-page-00047,shape_4.jpg,shape_7.jpg,20.4986,154.013,147.285,2,1,"Distortion, Perseveration"
-page-00047,shape_5.jpg,shape_7.jpg,6.0931,154.013,147.5023,2,1,"Distortion, Perseveration"
-page-00047,shape_7.jpg,shape_7.jpg,20.8379,154.013,143.5935,2,3,"Distortion, Integration Failure, Perseveration"
-page-00047,shape_9.jpg,shape_8.jpg,6.7016,138.0036,174.0689,3,6,"Distortion, Integration Failure, Perseveration"
-page-00048,shape_5.jpg,shape_0.jpg,5.9927,149.8032,201.7934,1,7,"Distortion, Integration Failure, Perseveration"
-page-00048,shape_2.jpg,shape_2.jpg,8.0841,130.2306,217.9379,35,2,"Distortion, Perseveration"
+page-00047,shape_1.jpg,shape_6.jpg,8.2399,133.3604,174.3982,13,4,Omission
+page-00047,shape_8.jpg,shape_6.jpg,8.3209,133.3604,176.3156,13,5,Omission
+page-00047,shape_4.jpg,shape_7.jpg,20.4986,154.013,147.285,2,1,"Distortion, Omission"
+page-00047,shape_5.jpg,shape_7.jpg,6.0931,154.013,147.5023,2,1,Omission
+page-00047,shape_7.jpg,shape_7.jpg,20.8379,154.013,143.5935,2,3,"Distortion, Omission, Integration Failure"
+page-00047,shape_9.jpg,shape_8.jpg,6.7016,138.0036,174.0689,3,6,"Omission, Integration Failure"
+page-00048,shape_5.jpg,shape_0.jpg,5.9927,149.8032,201.7934,1,7,"Integration Failure, Perseveration"
+page-00048,shape_2.jpg,shape_2.jpg,8.0841,130.2306,217.9379,35,2,Perseveration
 page-00048,shape_3.jpg,shape_2.jpg,21.5778,130.2306,218.1793,35,2,"Distortion, Perseveration"
 page-00048,shape_7.jpg,shape_2.jpg,21.5139,130.2306,207.3241,35,3,"Distortion, Perseveration"
-page-00048,shape_0.jpg,shape_6.jpg,8.1823,133.3604,176.0354,13,5,"Distortion, Perseveration"
-page-00048,shape_4.jpg,shape_6.jpg,8.4757,133.3604,180.9528,13,16,"Distortion, Integration Failure, Perseveration"
-page-00048,shape_1.jpg,shape_7.jpg,20.7929,154.013,139.9065,2,4,"Distortion, Integration Failure, Perseveration"
-page-00048,shape_6.jpg,shape_7.jpg,20.8908,154.013,146.8388,2,1,"Distortion, Perseveration"
-page-00049,shape_2.jpg,shape_0.jpg,5.6334,149.8032,201.6557,1,1,"Distortion, Perseveration"
+page-00048,shape_0.jpg,shape_6.jpg,8.1823,133.3604,176.0354,13,5,Omission
+page-00048,shape_4.jpg,shape_6.jpg,8.4757,133.3604,180.9528,13,16,Integration Failure
+page-00048,shape_1.jpg,shape_7.jpg,20.7929,154.013,139.9065,2,4,"Distortion, Omission, Integration Failure"
+page-00048,shape_6.jpg,shape_7.jpg,20.8908,154.013,146.8388,2,1,"Distortion, Omission"
+page-00049,shape_2.jpg,shape_0.jpg,5.6334,149.8032,201.6557,1,1,Perseveration
 page-00049,shape_3.jpg,shape_2.jpg,21.4793,130.2306,201.4931,35,11,"Distortion, Perseveration"
-page-00049,shape_0.jpg,shape_6.jpg,8.232,133.3604,173.9351,13,4,"Distortion, Perseveration"
-page-00049,shape_1.jpg,shape_7.jpg,20.5137,154.013,145.5,2,1,"Distortion, Perseveration"
-page-00049,shape_4.jpg,shape_7.jpg,20.4521,154.013,142.1308,2,5,"Distortion, Integration Failure, Perseveration"
-page-0005,shape_0.jpg,shape_0.jpg,5.9196,149.8032,208.8459,1,1,"Distortion, Perseveration"
-page-0005,shape_4.jpg,shape_0.jpg,5.8726,149.8032,194.1672,1,3,"Distortion, Integration Failure, Perseveration"
+page-00049,shape_0.jpg,shape_6.jpg,8.232,133.3604,173.9351,13,4,Omission
+page-00049,shape_1.jpg,shape_7.jpg,20.5137,154.013,145.5,2,1,"Distortion, Omission"
+page-00049,shape_4.jpg,shape_7.jpg,20.4521,154.013,142.1308,2,5,"Distortion, Omission, Integration Failure"
+page-0005,shape_0.jpg,shape_0.jpg,5.9196,149.8032,208.8459,1,1,Perseveration
+page-0005,shape_4.jpg,shape_0.jpg,5.8726,149.8032,194.1672,1,3,"Integration Failure, Perseveration"
 page-0005,shape_5.jpg,shape_2.jpg,21.5097,130.2306,209.8586,35,3,"Distortion, Perseveration"
-page-0005,shape_2.jpg,shape_7.jpg,20.5248,154.013,144.8248,2,6,"Distortion, Integration Failure, Perseveration"
-page-0005,shape_3.jpg,shape_7.jpg,20.3834,154.013,139.5771,2,5,"Distortion, Integration Failure, Perseveration"
-page-0005,shape_6.jpg,shape_7.jpg,20.477,154.013,147.257,2,1,"Distortion, Perseveration"
-page-0005,shape_1.jpg,shape_8.jpg,6.7869,138.0036,183.7305,3,1,"Distortion, Perseveration"
+page-0005,shape_2.jpg,shape_7.jpg,20.5248,154.013,144.8248,2,6,"Distortion, Omission, Integration Failure"
+page-0005,shape_3.jpg,shape_7.jpg,20.3834,154.013,139.5771,2,5,"Distortion, Omission, Integration Failure"
+page-0005,shape_6.jpg,shape_7.jpg,20.477,154.013,147.257,2,1,"Distortion, Omission"
+page-0005,shape_1.jpg,shape_8.jpg,6.7869,138.0036,183.7305,3,1,No Significant Errors
 page-00050,shape_1.jpg,shape_2.jpg,21.5276,130.2306,213.6586,35,6,"Distortion, Perseveration"
 page-00050,shape_3.jpg,shape_2.jpg,21.5483,129.2478,212.0552,35,1,"Distortion, Perseveration"
-page-00050,shape_4.jpg,shape_6.jpg,8.5017,133.3604,183.8201,13,1,"Distortion, Perseveration"
-page-00050,shape_0.jpg,shape_7.jpg,6.0547,154.013,139.7757,2,3,"Distortion, Integration Failure, Perseveration"
-page-00050,shape_2.jpg,shape_7.jpg,20.4607,154.013,140.3505,2,1,"Distortion, Perseveration"
-page-00050,shape_5.jpg,shape_8.jpg,6.8295,138.0036,183.2994,3,4,"Distortion, Integration Failure, Perseveration"
-page-00051,shape_1.jpg,shape_0.jpg,6.0123,149.8032,205.6295,1,1,"Distortion, Perseveration"
-page-00051,shape_3.jpg,shape_0.jpg,5.9867,149.8032,202.0328,1,1,"Distortion, Perseveration"
-page-00051,shape_5.jpg,shape_0.jpg,5.6893,149.8032,201.1672,1,12,"Distortion, Integration Failure, Perseveration"
-page-00051,shape_6.jpg,shape_0.jpg,5.6803,149.8032,206.6098,1,1,"Distortion, Perseveration"
-page-00051,shape_7.jpg,shape_0.jpg,5.7172,149.8032,206.2754,1,1,"Distortion, Perseveration"
+page-00050,shape_4.jpg,shape_6.jpg,8.5017,133.3604,183.8201,13,1,No Significant Errors
+page-00050,shape_0.jpg,shape_7.jpg,6.0547,154.013,139.7757,2,3,"Omission, Integration Failure"
+page-00050,shape_2.jpg,shape_7.jpg,20.4607,154.013,140.3505,2,1,"Distortion, Omission"
+page-00050,shape_5.jpg,shape_8.jpg,6.8295,138.0036,183.2994,3,4,Integration Failure
+page-00051,shape_1.jpg,shape_0.jpg,6.0123,149.8032,205.6295,1,1,Perseveration
+page-00051,shape_3.jpg,shape_0.jpg,5.9867,149.8032,202.0328,1,1,Perseveration
+page-00051,shape_5.jpg,shape_0.jpg,5.6893,149.8032,201.1672,1,12,"Integration Failure, Perseveration"
+page-00051,shape_6.jpg,shape_0.jpg,5.6803,149.8032,206.6098,1,1,Perseveration
+page-00051,shape_7.jpg,shape_0.jpg,5.7172,149.8032,206.2754,1,1,Perseveration
 page-00051,shape_11.jpg,shape_2.jpg,21.3916,130.2306,202.9759,35,3,"Distortion, Perseveration"
-page-00051,shape_9.jpg,shape_6.jpg,8.4767,133.3604,182.118,13,4,"Distortion, Perseveration"
-page-00051,shape_10.jpg,shape_7.jpg,20.5026,154.013,146.0187,2,5,"Distortion, Integration Failure, Perseveration"
-page-00051,shape_2.jpg,shape_7.jpg,20.7414,154.013,139.6425,2,26,"Distortion, Integration Failure, Perseveration"
-page-00051,shape_8.jpg,shape_7.jpg,20.7961,154.013,146.8668,2,1,"Distortion, Perseveration"
-page-00051,shape_0.jpg,shape_8.jpg,6.8446,138.0036,174.994,3,7,"Distortion, Integration Failure, Perseveration"
-page-00051,shape_4.jpg,shape_8.jpg,6.6385,138.0036,180.6228,3,4,"Distortion, Integration Failure, Perseveration"
-page-00052,shape_4.jpg,shape_0.jpg,5.9944,149.8032,199.6852,1,2,"Distortion, Integration Failure, Perseveration"
-page-00052,shape_9.jpg,shape_0.jpg,6.0019,149.8032,196.9541,1,3,"Distortion, Integration Failure, Perseveration"
+page-00051,shape_9.jpg,shape_6.jpg,8.4767,133.3604,182.118,13,4,No Significant Errors
+page-00051,shape_10.jpg,shape_7.jpg,20.5026,154.013,146.0187,2,5,"Distortion, Omission, Integration Failure"
+page-00051,shape_2.jpg,shape_7.jpg,20.7414,154.013,139.6425,2,26,"Distortion, Omission, Integration Failure"
+page-00051,shape_8.jpg,shape_7.jpg,20.7961,154.013,146.8668,2,1,"Distortion, Omission"
+page-00051,shape_0.jpg,shape_8.jpg,6.8446,138.0036,174.994,3,7,"Omission, Integration Failure"
+page-00051,shape_4.jpg,shape_8.jpg,6.6385,138.0036,180.6228,3,4,Integration Failure
+page-00052,shape_4.jpg,shape_0.jpg,5.9944,149.8032,199.6852,1,2,"Integration Failure, Perseveration"
+page-00052,shape_9.jpg,shape_0.jpg,6.0019,149.8032,196.9541,1,3,"Integration Failure, Perseveration"
 page-00052,shape_2.jpg,shape_2.jpg,21.3997,130.2306,201.9828,35,4,"Distortion, Perseveration"
-page-00052,shape_5.jpg,shape_6.jpg,8.4794,133.3604,179.6814,13,1,"Distortion, Perseveration"
-page-00052,shape_7.jpg,shape_6.jpg,8.4681,133.3604,183.4041,13,7,"Distortion, Perseveration"
-page-00052,shape_0.jpg,shape_7.jpg,20.7807,154.013,134.3341,2,4,"Distortion, Integration Failure, Perseveration"
-page-00052,shape_1.jpg,shape_7.jpg,6.0301,154.013,145.1939,2,1,"Distortion, Perseveration"
-page-00052,shape_10.jpg,shape_7.jpg,5.9697,154.013,146.9953,2,2,"Distortion, Perseveration"
-page-00052,shape_3.jpg,shape_7.jpg,6.0796,154.013,147.9883,2,1,"Distortion, Perseveration"
-page-00052,shape_8.jpg,shape_7.jpg,20.5528,154.013,141.3902,2,4,"Distortion, Integration Failure, Perseveration"
-page-00052,shape_6.jpg,shape_8.jpg,6.5553,138.0036,175.1647,3,6,"Distortion, Integration Failure, Perseveration"
-page-00053,shape_4.jpg,shape_2.jpg,7.722,130.2306,197.0931,35,29,"Distortion, Perseveration"
-page-00053,shape_0.jpg,shape_7.jpg,20.8405,154.013,137.0537,2,4,"Distortion, Integration Failure, Perseveration"
-page-00053,shape_1.jpg,shape_7.jpg,5.9064,154.013,148.5584,2,3,"Distortion, Integration Failure, Perseveration"
-page-00053,shape_2.jpg,shape_7.jpg,20.8947,154.013,133.3178,2,2,"Distortion, Perseveration"
-page-00053,shape_3.jpg,shape_7.jpg,6.038,154.013,131.8902,2,4,"Distortion, Integration Failure, Perseveration"
-page-00054,shape_5.jpg,shape_0.jpg,5.9263,149.8032,190.7738,1,1,"Distortion, Perseveration"
-page-00054,shape_0.jpg,shape_2.jpg,7.8492,130.2306,202.4966,35,1,"Distortion, Perseveration"
+page-00052,shape_5.jpg,shape_6.jpg,8.4794,133.3604,179.6814,13,1,Omission
+page-00052,shape_7.jpg,shape_6.jpg,8.4681,133.3604,183.4041,13,7,No Significant Errors
+page-00052,shape_0.jpg,shape_7.jpg,20.7807,154.013,134.3341,2,4,"Distortion, Omission, Integration Failure"
+page-00052,shape_1.jpg,shape_7.jpg,6.0301,154.013,145.1939,2,1,Omission
+page-00052,shape_10.jpg,shape_7.jpg,5.9697,154.013,146.9953,2,2,Omission
+page-00052,shape_3.jpg,shape_7.jpg,6.0796,154.013,147.9883,2,1,Omission
+page-00052,shape_8.jpg,shape_7.jpg,20.5528,154.013,141.3902,2,4,"Distortion, Omission, Integration Failure"
+page-00052,shape_6.jpg,shape_8.jpg,6.5553,138.0036,175.1647,3,6,"Omission, Integration Failure"
+page-00053,shape_4.jpg,shape_2.jpg,7.722,130.2306,197.0931,35,29,Perseveration
+page-00053,shape_5.jpg,shape_6.jpg,8.2037,133.3604,160.4926,13,4,Omission
+page-00053,shape_0.jpg,shape_7.jpg,20.8405,154.013,137.0537,2,4,"Distortion, Omission, Integration Failure"
+page-00053,shape_1.jpg,shape_7.jpg,5.9064,154.013,148.5584,2,3,"Omission, Integration Failure"
+page-00053,shape_2.jpg,shape_7.jpg,20.8947,154.013,133.3178,2,2,"Distortion, Omission"
+page-00053,shape_3.jpg,shape_7.jpg,6.038,154.013,131.8902,2,4,"Omission, Integration Failure"
+page-00053,shape_6.jpg,shape_7.jpg,20.8055,154.013,129.1636,2,4,"Distortion, Omission, Integration Failure"
+page-00054,shape_5.jpg,shape_0.jpg,5.9263,149.8032,190.7738,1,1,Perseveration
+page-00054,shape_0.jpg,shape_2.jpg,7.8492,130.2306,202.4966,35,1,Perseveration
 page-00054,shape_1.jpg,shape_2.jpg,21.4818,130.2306,201.4931,35,4,"Distortion, Perseveration"
 page-00054,shape_3.jpg,shape_2.jpg,21.5495,130.2306,218.5828,35,1,"Distortion, Perseveration"
 page-00054,shape_4.jpg,shape_2.jpg,21.4761,130.2306,217.4759,35,1,"Distortion, Perseveration"
-page-00054,shape_8.jpg,shape_6.jpg,7.8766,133.3604,175.5605,13,1,"Distortion, Perseveration"
-page-00054,shape_6.jpg,shape_7.jpg,20.449,154.013,142.3902,2,15,"Distortion, Integration Failure, Perseveration"
-page-00054,shape_7.jpg,shape_7.jpg,5.5618,154.013,133.4019,2,4,"Distortion, Integration Failure, Perseveration"
-page-00054,shape_2.jpg,shape_8.jpg,6.5172,138.0036,177.3293,3,5,"Distortion, Integration Failure, Perseveration"
-page-00055,shape_0.jpg,shape_0.jpg,5.8954,149.8032,195.9836,1,4,"Distortion, Integration Failure, Perseveration"
-page-00055,shape_4.jpg,shape_2.jpg,7.7246,130.2306,214.3931,35,1,"Distortion, Perseveration"
+page-00054,shape_8.jpg,shape_6.jpg,7.8766,133.3604,175.5605,13,1,Omission
+page-00054,shape_6.jpg,shape_7.jpg,20.449,154.013,142.3902,2,15,"Distortion, Omission, Integration Failure"
+page-00054,shape_7.jpg,shape_7.jpg,5.5618,154.013,133.4019,2,4,"Omission, Integration Failure"
+page-00054,shape_2.jpg,shape_8.jpg,6.5172,138.0036,177.3293,3,5,"Omission, Integration Failure"
+page-00055,shape_0.jpg,shape_0.jpg,5.8954,149.8032,195.9836,1,4,"Integration Failure, Perseveration"
+page-00055,shape_4.jpg,shape_2.jpg,7.7246,130.2306,214.3931,35,1,Perseveration
 page-00055,shape_5.jpg,shape_2.jpg,21.5832,130.2306,205.0207,35,22,"Distortion, Perseveration"
-page-00055,shape_2.jpg,shape_6.jpg,8.3446,133.3604,184.8761,13,5,"Distortion, Perseveration"
-page-00055,shape_6.jpg,shape_6.jpg,7.9175,133.3604,176.7522,13,1,"Distortion, Perseveration"
-page-00055,shape_3.jpg,shape_7.jpg,6.0544,154.013,146.3832,2,1,"Distortion, Perseveration"
-page-00055,shape_1.jpg,shape_8.jpg,6.4644,138.0036,177.6707,3,4,"Distortion, Integration Failure, Perseveration"
-page-00056,shape_0.jpg,shape_0.jpg,5.8763,149.8032,193.082,1,4,"Distortion, Integration Failure, Perseveration"
-page-00056,shape_4.jpg,shape_2.jpg,8.0376,130.2306,214.3552,35,1,"Distortion, Perseveration"
-page-00056,shape_1.jpg,shape_7.jpg,5.7615,154.013,140.0397,2,4,"Distortion, Integration Failure, Perseveration"
-page-00056,shape_2.jpg,shape_7.jpg,6.0332,154.013,143.8435,2,2,"Distortion, Perseveration"
-page-00056,shape_3.jpg,shape_7.jpg,20.5405,154.013,147.2056,2,1,"Distortion, Perseveration"
-page-00056,shape_5.jpg,shape_7.jpg,20.8951,154.013,142.4883,2,21,"Distortion, Integration Failure, Perseveration"
-page-00057,shape_1.jpg,shape_2.jpg,8.0347,130.2306,216.4448,35,1,"Distortion, Perseveration"
+page-00055,shape_2.jpg,shape_6.jpg,8.3446,133.3604,184.8761,13,5,No Significant Errors
+page-00055,shape_6.jpg,shape_6.jpg,7.9175,133.3604,176.7522,13,1,Omission
+page-00055,shape_3.jpg,shape_7.jpg,6.0544,154.013,146.3832,2,1,Omission
+page-00055,shape_1.jpg,shape_8.jpg,6.4644,138.0036,177.6707,3,4,"Omission, Integration Failure"
+page-00056,shape_0.jpg,shape_0.jpg,5.8763,149.8032,193.082,1,4,"Integration Failure, Perseveration"
+page-00056,shape_4.jpg,shape_2.jpg,8.0376,130.2306,214.3552,35,1,Perseveration
+page-00056,shape_1.jpg,shape_7.jpg,5.7615,154.013,140.0397,2,4,"Omission, Integration Failure"
+page-00056,shape_2.jpg,shape_7.jpg,6.0332,154.013,143.8435,2,2,Omission
+page-00056,shape_3.jpg,shape_7.jpg,20.5405,154.013,147.2056,2,1,"Distortion, Omission"
+page-00056,shape_5.jpg,shape_7.jpg,20.8951,154.013,142.4883,2,21,"Distortion, Omission, Integration Failure"
+page-00057,shape_1.jpg,shape_2.jpg,8.0347,130.2306,216.4448,35,1,Perseveration
 page-00057,shape_4.jpg,shape_2.jpg,21.3306,130.2306,204.8207,35,3,"Distortion, Perseveration"
-page-00057,shape_5.jpg,shape_6.jpg,8.3331,133.3604,177.292,13,3,"Distortion, Perseveration"
-page-00057,shape_0.jpg,shape_7.jpg,20.4499,154.013,138.9696,2,4,"Distortion, Integration Failure, Perseveration"
-page-00057,shape_2.jpg,shape_7.jpg,5.8912,154.013,140.1262,2,3,"Distortion, Integration Failure, Perseveration"
-page-00057,shape_3.jpg,shape_7.jpg,20.5399,154.013,147.007,2,1,"Distortion, Perseveration"
-page-00058,shape_6.jpg,shape_0.jpg,5.7128,149.8032,196.2426,1,4,"Distortion, Integration Failure, Perseveration"
+page-00057,shape_5.jpg,shape_6.jpg,8.3331,133.3604,177.292,13,3,Omission
+page-00057,shape_0.jpg,shape_7.jpg,20.4499,154.013,138.9696,2,4,"Distortion, Omission, Integration Failure"
+page-00057,shape_2.jpg,shape_7.jpg,5.8912,154.013,140.1262,2,3,"Omission, Integration Failure"
+page-00057,shape_3.jpg,shape_7.jpg,20.5399,154.013,147.007,2,1,"Distortion, Omission"
+page-00058,shape_6.jpg,shape_0.jpg,5.7128,149.8032,196.2426,1,4,"Integration Failure, Perseveration"
 page-00058,shape_2.jpg,shape_2.jpg,21.5868,130.2306,222.0966,35,1,"Distortion, Perseveration"
 page-00058,shape_3.jpg,shape_2.jpg,21.5716,130.2306,215.2793,35,1,"Distortion, Perseveration"
-page-00058,shape_5.jpg,shape_6.jpg,8.1379,133.3604,171.4838,13,12,"Distortion, Perseveration"
-page-00058,shape_0.jpg,shape_7.jpg,20.5546,154.013,138.5748,2,5,"Distortion, Integration Failure, Perseveration"
-page-00058,shape_1.jpg,shape_7.jpg,6.0069,154.013,145.1238,2,1,"Distortion, Perseveration"
-page-00058,shape_4.jpg,shape_7.jpg,20.9031,154.013,146.0164,2,3,"Distortion, Integration Failure, Perseveration"
-page-00058,shape_7.jpg,shape_7.jpg,20.54,154.013,140.1846,2,5,"Distortion, Integration Failure, Perseveration"
-page-00058,shape_8.jpg,shape_8.jpg,6.6468,138.0036,181.7156,3,3,"Distortion, Perseveration"
-page-00059,shape_2.jpg,shape_2.jpg,8.0189,130.2306,215.6931,35,2,"Distortion, Perseveration"
+page-00058,shape_5.jpg,shape_6.jpg,8.1379,133.3604,171.4838,13,12,Omission
+page-00058,shape_0.jpg,shape_7.jpg,20.5546,154.013,138.5748,2,5,"Distortion, Omission, Integration Failure"
+page-00058,shape_1.jpg,shape_7.jpg,6.0069,154.013,145.1238,2,1,Omission
+page-00058,shape_4.jpg,shape_7.jpg,20.9031,154.013,146.0164,2,3,"Distortion, Omission, Integration Failure"
+page-00058,shape_7.jpg,shape_7.jpg,20.54,154.013,140.1846,2,5,"Distortion, Omission, Integration Failure"
+page-00058,shape_8.jpg,shape_8.jpg,6.6468,138.0036,181.7156,3,3,No Significant Errors
+page-00059,shape_2.jpg,shape_2.jpg,8.0189,130.2306,215.6931,35,2,Perseveration
 page-00059,shape_3.jpg,shape_2.jpg,21.5627,130.2306,213.4241,35,1,"Distortion, Perseveration"
 page-00059,shape_4.jpg,shape_2.jpg,21.4713,130.2306,205.5897,35,9,"Distortion, Perseveration"
-page-00059,shape_1.jpg,shape_6.jpg,8.4589,133.3604,179.6224,13,7,"Distortion, Perseveration"
-page-00059,shape_0.jpg,shape_8.jpg,6.7227,138.0036,174.1407,3,4,"Distortion, Integration Failure, Perseveration"
-page-0006,shape_0.jpg,shape_0.jpg,5.0912,149.8032,182.2131,1,34,"Distortion, Integration Failure, Perseveration"
-page-0006,shape_3.jpg,shape_2.jpg,8.044,130.2306,213.2759,35,10,"Distortion, Perseveration"
-page-0006,shape_1.jpg,shape_7.jpg,20.5381,154.013,142.8621,2,4,"Distortion, Integration Failure, Perseveration"
-page-0006,shape_2.jpg,shape_8.jpg,6.79,138.0036,189.7066,3,2,"Distortion, Perseveration"
-page-00060,shape_7.jpg,shape_0.jpg,5.5932,149.8032,198.8066,1,3,"Distortion, Integration Failure, Perseveration"
-page-00060,shape_3.jpg,shape_2.jpg,8.0828,130.2306,219.1483,35,2,"Distortion, Perseveration"
+page-00059,shape_1.jpg,shape_6.jpg,8.4589,133.3604,179.6224,13,7,Omission
+page-00059,shape_0.jpg,shape_8.jpg,6.7227,138.0036,174.1407,3,4,"Omission, Integration Failure"
+page-0006,shape_0.jpg,shape_0.jpg,5.0912,149.8032,182.2131,1,34,Integration Failure
+page-0006,shape_3.jpg,shape_2.jpg,8.044,130.2306,213.2759,35,10,Perseveration
+page-0006,shape_4.jpg,shape_6.jpg,8.4725,133.3604,186.2537,13,6,No Significant Errors
+page-0006,shape_1.jpg,shape_7.jpg,20.5381,154.013,142.8621,2,4,"Distortion, Omission, Integration Failure"
+page-0006,shape_2.jpg,shape_8.jpg,6.79,138.0036,189.7066,3,2,No Significant Errors
+page-00060,shape_7.jpg,shape_0.jpg,5.5932,149.8032,198.8066,1,3,"Integration Failure, Perseveration"
+page-00060,shape_3.jpg,shape_2.jpg,8.0828,130.2306,219.1483,35,2,Perseveration
 page-00060,shape_6.jpg,shape_2.jpg,21.5381,130.2306,215.6655,35,1,"Distortion, Perseveration"
-page-00060,shape_0.jpg,shape_6.jpg,8.1907,133.3604,176.9174,13,4,"Distortion, Perseveration"
-page-00060,shape_1.jpg,shape_7.jpg,20.7733,154.013,141.0748,2,4,"Distortion, Integration Failure, Perseveration"
-page-00060,shape_2.jpg,shape_7.jpg,20.8878,154.013,145.4977,2,1,"Distortion, Perseveration"
-page-00060,shape_4.jpg,shape_7.jpg,20.5026,154.013,139.9696,2,5,"Distortion, Integration Failure, Perseveration"
-page-00060,shape_5.jpg,shape_8.jpg,6.8406,138.0036,177.1707,3,7,"Distortion, Integration Failure, Perseveration"
-page-00061,shape_0.jpg,shape_2.jpg,8.0487,130.2306,214.469,35,1,"Distortion, Perseveration"
-page-00061,shape_2.jpg,shape_6.jpg,8.2278,133.3604,176.7994,13,4,"Distortion, Perseveration"
-page-00061,shape_3.jpg,shape_6.jpg,8.2277,133.3604,174.4838,13,9,"Distortion, Perseveration"
-page-00061,shape_6.jpg,shape_6.jpg,8.2427,133.3604,185.944,13,1,"Distortion, Perseveration"
-page-00061,shape_4.jpg,shape_7.jpg,5.698,154.013,143.0374,2,1,"Distortion, Perseveration"
-page-00061,shape_5.jpg,shape_7.jpg,20.5282,154.013,138.0117,2,3,"Distortion, Integration Failure, Perseveration"
-page-00061,shape_1.jpg,shape_8.jpg,6.5903,138.0036,186.9162,3,1,"Distortion, Perseveration"
-page-00062,shape_10.jpg,shape_0.jpg,5.2117,149.8032,193.3869,1,3,"Distortion, Integration Failure, Perseveration"
-page-00062,shape_11.jpg,shape_0.jpg,5.581,149.8032,187.6623,1,1,"Distortion, Perseveration"
-page-00062,shape_7.jpg,shape_0.jpg,5.1255,149.8032,184.3279,1,8,"Distortion, Integration Failure, Perseveration"
+page-00060,shape_0.jpg,shape_6.jpg,8.1907,133.3604,176.9174,13,4,Omission
+page-00060,shape_1.jpg,shape_7.jpg,20.7733,154.013,141.0748,2,4,"Distortion, Omission, Integration Failure"
+page-00060,shape_2.jpg,shape_7.jpg,20.8878,154.013,145.4977,2,1,"Distortion, Omission"
+page-00060,shape_4.jpg,shape_7.jpg,20.5026,154.013,139.9696,2,5,"Distortion, Omission, Integration Failure"
+page-00060,shape_5.jpg,shape_8.jpg,6.8406,138.0036,177.1707,3,7,"Omission, Integration Failure"
+page-00061,shape_0.jpg,shape_2.jpg,8.0487,130.2306,214.469,35,1,Perseveration
+page-00061,shape_2.jpg,shape_6.jpg,8.2278,133.3604,176.7994,13,4,Omission
+page-00061,shape_3.jpg,shape_6.jpg,8.2277,133.3604,174.4838,13,9,Omission
+page-00061,shape_6.jpg,shape_6.jpg,8.2427,133.3604,185.944,13,1,No Significant Errors
+page-00061,shape_4.jpg,shape_7.jpg,5.698,154.013,143.0374,2,1,Omission
+page-00061,shape_5.jpg,shape_7.jpg,20.5282,154.013,138.0117,2,3,"Distortion, Omission, Integration Failure"
+page-00061,shape_1.jpg,shape_8.jpg,6.5903,138.0036,186.9162,3,1,No Significant Errors
+page-00062,shape_10.jpg,shape_0.jpg,5.2117,149.8032,193.3869,1,3,"Integration Failure, Perseveration"
+page-00062,shape_11.jpg,shape_0.jpg,5.581,149.8032,187.6623,1,1,No Significant Errors
+page-00062,shape_7.jpg,shape_0.jpg,5.1255,149.8032,184.3279,1,8,Integration Failure
 page-00062,shape_2.jpg,shape_2.jpg,21.5336,130.2306,214.8448,35,2,"Distortion, Perseveration"
 page-00062,shape_4.jpg,shape_2.jpg,21.5473,130.2306,216.5448,35,1,"Distortion, Perseveration"
-page-00062,shape_6.jpg,shape_6.jpg,8.347,133.3604,180.1681,13,4,"Distortion, Perseveration"
-page-00062,shape_0.jpg,shape_7.jpg,20.4526,154.013,141.4369,2,4,"Distortion, Integration Failure, Perseveration"
-page-00062,shape_1.jpg,shape_7.jpg,5.6244,154.013,135.1939,2,6,"Distortion, Integration Failure, Perseveration"
-page-00062,shape_5.jpg,shape_7.jpg,20.9029,154.013,145.0607,2,2,"Distortion, Perseveration"
-page-00062,shape_8.jpg,shape_7.jpg,5.9331,154.013,142.3995,2,2,"Distortion, Perseveration"
-page-00062,shape_3.jpg,shape_8.jpg,6.7003,138.0036,189.6198,3,2,"Distortion, Perseveration"
-page-00062,shape_9.jpg,shape_8.jpg,6.866,138.0036,180.6677,3,2,"Distortion, Perseveration"
-page-00063,shape_2.jpg,shape_2.jpg,7.8318,130.2306,205.8897,35,2,"Distortion, Perseveration"
+page-00062,shape_6.jpg,shape_6.jpg,8.347,133.3604,180.1681,13,4,No Significant Errors
+page-00062,shape_0.jpg,shape_7.jpg,20.4526,154.013,141.4369,2,4,"Distortion, Omission, Integration Failure"
+page-00062,shape_1.jpg,shape_7.jpg,5.6244,154.013,135.1939,2,6,"Omission, Integration Failure"
+page-00062,shape_5.jpg,shape_7.jpg,20.9029,154.013,145.0607,2,2,"Distortion, Omission"
+page-00062,shape_8.jpg,shape_7.jpg,5.9331,154.013,142.3995,2,2,Omission
+page-00062,shape_3.jpg,shape_8.jpg,6.7003,138.0036,189.6198,3,2,No Significant Errors
+page-00062,shape_9.jpg,shape_8.jpg,6.866,138.0036,180.6677,3,2,No Significant Errors
+page-00063,shape_2.jpg,shape_2.jpg,7.8318,130.2306,205.8897,35,2,Perseveration
 page-00063,shape_3.jpg,shape_2.jpg,21.4969,130.2306,209.569,35,20,"Distortion, Perseveration"
-page-00063,shape_0.jpg,shape_7.jpg,20.4183,154.013,138.9159,2,4,"Distortion, Integration Failure, Perseveration"
-page-00063,shape_1.jpg,shape_7.jpg,20.4138,154.013,139.4696,2,4,"Distortion, Integration Failure, Perseveration"
-page-00063,shape_4.jpg,shape_7.jpg,5.9357,154.013,140.3481,2,3,"Distortion, Integration Failure, Perseveration"
-page-00063,shape_5.jpg,shape_7.jpg,5.7136,154.013,144.8201,2,4,"Distortion, Integration Failure, Perseveration"
-page-00064,shape_1.jpg,shape_0.jpg,5.7741,149.8032,197.6885,1,5,"Distortion, Integration Failure, Perseveration"
+page-00063,shape_0.jpg,shape_7.jpg,20.4183,154.013,138.9159,2,4,"Distortion, Omission, Integration Failure"
+page-00063,shape_1.jpg,shape_7.jpg,20.4138,154.013,139.4696,2,4,"Distortion, Omission, Integration Failure"
+page-00063,shape_4.jpg,shape_7.jpg,5.9357,154.013,140.3481,2,3,"Omission, Integration Failure"
+page-00063,shape_5.jpg,shape_7.jpg,5.7136,154.013,144.8201,2,4,"Omission, Integration Failure"
+page-00064,shape_1.jpg,shape_0.jpg,5.7741,149.8032,197.6885,1,5,"Integration Failure, Perseveration"
 page-00064,shape_3.jpg,shape_2.jpg,21.5672,130.2306,213.2069,35,1,"Distortion, Perseveration"
-page-00064,shape_4.jpg,shape_2.jpg,7.6783,130.2306,216.4759,35,2,"Distortion, Perseveration"
-page-00064,shape_5.jpg,shape_6.jpg,8.1251,133.3604,179.646,13,3,"Distortion, Perseveration"
-page-00064,shape_6.jpg,shape_6.jpg,8.2884,133.3604,185.8083,13,1,"Distortion, Perseveration"
-page-00064,shape_7.jpg,shape_6.jpg,8.4333,133.3604,174.472,13,3,"Distortion, Perseveration"
-page-00064,shape_0.jpg,shape_7.jpg,20.8828,154.013,141.0397,2,3,"Distortion, Integration Failure, Perseveration"
-page-00064,shape_2.jpg,shape_8.jpg,6.8394,138.0036,189.024,3,1,"Distortion, Perseveration"
-page-00065,shape_4.jpg,shape_0.jpg,5.7499,149.8032,202.8426,1,1,"Distortion, Perseveration"
-page-00065,shape_5.jpg,shape_0.jpg,5.5987,149.8032,199.2918,1,1,"Distortion, Perseveration"
+page-00064,shape_4.jpg,shape_2.jpg,7.6783,130.2306,216.4759,35,2,Perseveration
+page-00064,shape_5.jpg,shape_6.jpg,8.1251,133.3604,179.646,13,3,Omission
+page-00064,shape_6.jpg,shape_6.jpg,8.2884,133.3604,185.8083,13,1,No Significant Errors
+page-00064,shape_7.jpg,shape_6.jpg,8.4333,133.3604,174.472,13,3,Omission
+page-00064,shape_0.jpg,shape_7.jpg,20.8828,154.013,141.0397,2,3,"Distortion, Omission, Integration Failure"
+page-00064,shape_2.jpg,shape_8.jpg,6.8394,138.0036,189.024,3,1,No Significant Errors
+page-00065,shape_4.jpg,shape_0.jpg,5.7499,149.8032,202.8426,1,1,Perseveration
+page-00065,shape_5.jpg,shape_0.jpg,5.5987,149.8032,199.2918,1,1,Perseveration
 page-00065,shape_7.jpg,shape_2.jpg,21.5666,130.2306,214.9724,35,19,"Distortion, Perseveration"
-page-00065,shape_6.jpg,shape_6.jpg,8.1827,133.3604,165.6962,13,16,"Distortion, Integration Failure, Perseveration"
-page-00065,shape_0.jpg,shape_7.jpg,20.4929,154.013,138.7196,2,4,"Distortion, Integration Failure, Perseveration"
-page-00065,shape_1.jpg,shape_7.jpg,20.5236,154.013,147.8037,2,1,"Distortion, Perseveration"
-page-00065,shape_2.jpg,shape_7.jpg,5.8616,154.013,141.6636,2,3,"Distortion, Integration Failure, Perseveration"
-page-00065,shape_3.jpg,shape_7.jpg,20.5249,154.013,145.4322,2,1,"Distortion, Perseveration"
-page-00065,shape_8.jpg,shape_8.jpg,6.8432,138.0036,182.012,3,3,"Distortion, Perseveration"
-page-00066,shape_3.jpg,shape_0.jpg,6.0023,149.8032,202.2623,1,1,"Distortion, Perseveration"
-page-00066,shape_1.jpg,shape_2.jpg,7.8934,130.2306,200.769,35,5,"Distortion, Perseveration"
-page-00066,shape_4.jpg,shape_6.jpg,8.3212,133.3604,184.3923,13,1,"Distortion, Perseveration"
-page-00066,shape_5.jpg,shape_6.jpg,8.3065,133.3604,174.2773,13,20,"Distortion, Integration Failure, Perseveration"
-page-00066,shape_0.jpg,shape_7.jpg,20.832,154.013,136.729,2,2,"Distortion, Perseveration"
-page-00066,shape_2.jpg,shape_7.jpg,20.4594,154.013,145.6799,2,1,"Distortion, Perseveration"
-page-00066,shape_6.jpg,shape_7.jpg,20.8345,154.013,139.7079,2,2,"Distortion, Perseveration"
-page-00067,shape_0.jpg,shape_2.jpg,8.0001,130.2306,219.3586,35,1,"Distortion, Perseveration"
-page-00067,shape_1.jpg,shape_2.jpg,8.0909,130.2306,213.1586,35,1,"Distortion, Perseveration"
+page-00065,shape_6.jpg,shape_6.jpg,8.1827,133.3604,165.6962,13,16,"Omission, Integration Failure"
+page-00065,shape_0.jpg,shape_7.jpg,20.4929,154.013,138.7196,2,4,"Distortion, Omission, Integration Failure"
+page-00065,shape_1.jpg,shape_7.jpg,20.5236,154.013,147.8037,2,1,"Distortion, Omission"
+page-00065,shape_2.jpg,shape_7.jpg,5.8616,154.013,141.6636,2,3,"Omission, Integration Failure"
+page-00065,shape_3.jpg,shape_7.jpg,20.5249,154.013,145.4322,2,1,"Distortion, Omission"
+page-00065,shape_8.jpg,shape_8.jpg,6.8432,138.0036,182.012,3,3,No Significant Errors
+page-00066,shape_3.jpg,shape_0.jpg,6.0023,149.8032,202.2623,1,1,Perseveration
+page-00066,shape_1.jpg,shape_2.jpg,7.8934,130.2306,200.769,35,5,Perseveration
+page-00066,shape_4.jpg,shape_6.jpg,8.3212,133.3604,184.3923,13,1,No Significant Errors
+page-00066,shape_5.jpg,shape_6.jpg,8.3065,133.3604,174.2773,13,20,"Omission, Integration Failure"
+page-00066,shape_0.jpg,shape_7.jpg,20.832,154.013,136.729,2,2,"Distortion, Omission"
+page-00066,shape_2.jpg,shape_7.jpg,20.4594,154.013,145.6799,2,1,"Distortion, Omission"
+page-00066,shape_6.jpg,shape_7.jpg,20.8345,154.013,139.7079,2,2,"Distortion, Omission"
+page-00067,shape_0.jpg,shape_2.jpg,8.0001,130.2306,219.3586,35,1,Perseveration
+page-00067,shape_1.jpg,shape_2.jpg,8.0909,130.2306,213.1586,35,1,Perseveration
 page-00067,shape_6.jpg,shape_2.jpg,21.5157,130.2306,215.7,35,2,"Distortion, Perseveration"
-page-00067,shape_2.jpg,shape_6.jpg,8.1312,133.3604,172.6018,13,4,"Distortion, Perseveration"
-page-00067,shape_3.jpg,shape_6.jpg,8.324,133.3604,173.2242,13,3,"Distortion, Perseveration"
-page-00067,shape_5.jpg,shape_6.jpg,8.4522,133.3604,177.9882,13,3,"Distortion, Perseveration"
-page-00067,shape_4.jpg,shape_7.jpg,5.2639,154.013,135.8692,2,17,"Distortion, Integration Failure, Perseveration"
-page-00068,shape_0.jpg,shape_0.jpg,5.9142,149.8032,194.8787,1,4,"Distortion, Integration Failure, Perseveration"
-page-00068,shape_2.jpg,shape_0.jpg,5.9936,149.8032,203.0918,1,2,"Distortion, Integration Failure, Perseveration"
-page-00068,shape_6.jpg,shape_0.jpg,5.6877,149.8032,205.541,1,1,"Distortion, Perseveration"
+page-00067,shape_2.jpg,shape_6.jpg,8.1312,133.3604,172.6018,13,4,Omission
+page-00067,shape_3.jpg,shape_6.jpg,8.324,133.3604,173.2242,13,3,Omission
+page-00067,shape_5.jpg,shape_6.jpg,8.4522,133.3604,177.9882,13,3,Omission
+page-00067,shape_4.jpg,shape_7.jpg,5.2639,154.013,135.8692,2,17,"Omission, Integration Failure"
+page-00068,shape_0.jpg,shape_0.jpg,5.9142,149.8032,194.8787,1,4,"Integration Failure, Perseveration"
+page-00068,shape_2.jpg,shape_0.jpg,5.9936,149.8032,203.0918,1,2,"Integration Failure, Perseveration"
+page-00068,shape_6.jpg,shape_0.jpg,5.6877,149.8032,205.541,1,1,Perseveration
 page-00068,shape_3.jpg,shape_2.jpg,21.4906,130.2306,203.7172,35,3,"Distortion, Perseveration"
-page-00068,shape_7.jpg,shape_2.jpg,7.9858,130.2306,205.8138,35,3,"Distortion, Perseveration"
-page-00068,shape_5.jpg,shape_6.jpg,8.2857,133.3604,184.6136,13,1,"Distortion, Perseveration"
-page-00068,shape_4.jpg,shape_7.jpg,20.4316,152.4336,142.8925,2,20,"Distortion, Integration Failure, Perseveration"
-page-00068,shape_1.jpg,shape_8.jpg,6.6308,138.0036,176.9701,3,3,"Distortion, Perseveration"
-page-00069,shape_0.jpg,shape_0.jpg,5.6873,149.8032,206.1344,1,1,"Distortion, Perseveration"
-page-00069,shape_9.jpg,shape_0.jpg,5.5879,149.8032,197.9574,1,7,"Distortion, Integration Failure, Perseveration"
+page-00068,shape_7.jpg,shape_2.jpg,7.9858,130.2306,205.8138,35,3,Perseveration
+page-00068,shape_5.jpg,shape_6.jpg,8.2857,133.3604,184.6136,13,1,No Significant Errors
+page-00068,shape_4.jpg,shape_7.jpg,20.4316,152.4336,142.8925,2,20,"Distortion, Omission, Integration Failure"
+page-00068,shape_1.jpg,shape_8.jpg,6.6308,138.0036,176.9701,3,3,Omission
+page-00069,shape_0.jpg,shape_0.jpg,5.6873,149.8032,206.1344,1,1,Perseveration
+page-00069,shape_9.jpg,shape_0.jpg,5.5879,149.8032,197.9574,1,7,"Integration Failure, Perseveration"
 page-00069,shape_1.jpg,shape_2.jpg,21.5293,130.2306,217.3034,35,1,"Distortion, Perseveration"
-page-00069,shape_2.jpg,shape_2.jpg,7.9551,130.2306,205.5345,35,3,"Distortion, Perseveration"
+page-00069,shape_2.jpg,shape_2.jpg,7.9551,130.2306,205.5345,35,3,Perseveration
 page-00069,shape_3.jpg,shape_2.jpg,21.5205,130.2306,207.9172,35,2,"Distortion, Perseveration"
-page-00069,shape_4.jpg,shape_2.jpg,8.1079,130.2306,212.8897,35,1,"Distortion, Perseveration"
-page-00069,shape_5.jpg,shape_2.jpg,7.5623,130.2306,210.3345,35,4,"Distortion, Perseveration"
-page-00069,shape_7.jpg,shape_7.jpg,6.0822,154.013,141.3224,2,1,"Distortion, Perseveration"
-page-00069,shape_8.jpg,shape_7.jpg,5.9082,154.013,144.9883,2,1,"Distortion, Perseveration"
-page-00069,shape_6.jpg,shape_8.jpg,6.8615,138.0036,189.485,3,2,"Distortion, Perseveration"
-page-0007,shape_1.jpg,shape_0.jpg,5.9638,149.8032,205.4951,1,1,"Distortion, Perseveration"
-page-0007,shape_2.jpg,shape_2.jpg,7.9563,130.2306,212.9828,35,1,"Distortion, Perseveration"
-page-0007,shape_0.jpg,shape_7.jpg,20.4701,154.013,140.3411,2,53,"Distortion, Integration Failure, Perseveration"
-page-0007,shape_3.jpg,shape_7.jpg,5.3849,154.013,138.7266,2,65,"Distortion, Integration Failure, Perseveration"
-page-00070,shape_1.jpg,shape_2.jpg,7.8988,130.2306,206.2103,35,4,"Distortion, Perseveration"
-page-00070,shape_3.jpg,shape_2.jpg,8.0763,130.2306,217.1483,35,1,"Distortion, Perseveration"
-page-00070,shape_2.jpg,shape_6.jpg,8.4831,133.3604,188.3776,13,1,"Distortion, Perseveration"
-page-00070,shape_4.jpg,shape_6.jpg,8.4145,133.3604,182.9381,13,1,"Distortion, Perseveration"
-page-00070,shape_0.jpg,shape_7.jpg,5.8632,154.013,140.0981,2,4,"Distortion, Integration Failure, Perseveration"
-page-00070,shape_5.jpg,shape_7.jpg,20.5343,154.013,144.0561,2,1,"Distortion, Perseveration"
-page-00070,shape_6.jpg,shape_8.jpg,6.613,138.0036,176.6437,3,7,"Distortion, Integration Failure, Perseveration"
-page-00071,shape_0.jpg,shape_2.jpg,7.8757,130.2306,200.3966,35,4,"Distortion, Perseveration"
-page-00071,shape_2.jpg,shape_2.jpg,7.6057,130.2306,208.2379,35,2,"Distortion, Perseveration"
-page-00071,shape_3.jpg,shape_2.jpg,7.6899,130.2306,198.2172,35,13,"Distortion, Perseveration"
-page-00071,shape_1.jpg,shape_7.jpg,20.8478,154.013,135.4112,2,4,"Distortion, Integration Failure, Perseveration"
-page-00071,shape_4.jpg,shape_7.jpg,20.4884,153.2221,143.9416,2,16,"Distortion, Integration Failure, Perseveration"
-page-00071,shape_5.jpg,shape_7.jpg,6.0417,154.013,135.8995,2,33,"Distortion, Integration Failure, Perseveration"
+page-00069,shape_4.jpg,shape_2.jpg,8.1079,130.2306,212.8897,35,1,Perseveration
+page-00069,shape_5.jpg,shape_2.jpg,7.5623,130.2306,210.3345,35,4,Perseveration
+page-00069,shape_7.jpg,shape_7.jpg,6.0822,154.013,141.3224,2,1,Omission
+page-00069,shape_8.jpg,shape_7.jpg,5.9082,154.013,144.9883,2,1,Omission
+page-00069,shape_6.jpg,shape_8.jpg,6.8615,138.0036,189.485,3,2,No Significant Errors
+page-0007,shape_1.jpg,shape_0.jpg,5.9638,149.8032,205.4951,1,1,Perseveration
+page-0007,shape_2.jpg,shape_2.jpg,7.9563,130.2306,212.9828,35,1,Perseveration
+page-0007,shape_0.jpg,shape_7.jpg,20.4701,154.013,140.3411,2,53,"Distortion, Omission, Integration Failure"
+page-0007,shape_3.jpg,shape_7.jpg,5.3849,154.013,138.7266,2,65,"Omission, Integration Failure"
+page-0007,shape_4.jpg,shape_7.jpg,4.7946,154.013,120.4136,2,13,"Omission, Integration Failure"
+page-00070,shape_1.jpg,shape_2.jpg,7.8988,130.2306,206.2103,35,4,Perseveration
+page-00070,shape_3.jpg,shape_2.jpg,8.0763,130.2306,217.1483,35,1,Perseveration
+page-00070,shape_2.jpg,shape_6.jpg,8.4831,133.3604,188.3776,13,1,No Significant Errors
+page-00070,shape_4.jpg,shape_6.jpg,8.4145,133.3604,182.9381,13,1,No Significant Errors
+page-00070,shape_0.jpg,shape_7.jpg,5.8632,154.013,140.0981,2,4,"Omission, Integration Failure"
+page-00070,shape_5.jpg,shape_7.jpg,20.5343,154.013,144.0561,2,1,"Distortion, Omission"
+page-00070,shape_6.jpg,shape_8.jpg,6.613,138.0036,176.6437,3,7,"Omission, Integration Failure"
+page-00071,shape_0.jpg,shape_2.jpg,7.8757,130.2306,200.3966,35,4,Perseveration
+page-00071,shape_2.jpg,shape_2.jpg,7.6057,130.2306,208.2379,35,2,Perseveration
+page-00071,shape_3.jpg,shape_2.jpg,7.6899,130.2306,198.2172,35,13,Perseveration
+page-00071,shape_1.jpg,shape_7.jpg,20.8478,154.013,135.4112,2,4,"Distortion, Omission, Integration Failure"
+page-00071,shape_4.jpg,shape_7.jpg,20.4884,153.2221,143.9416,2,16,"Distortion, Omission, Integration Failure"
+page-00071,shape_5.jpg,shape_7.jpg,6.0417,154.013,135.8995,2,33,"Omission, Integration Failure"
 page-00072,shape_1.jpg,shape_2.jpg,21.5636,130.2306,207.6138,35,6,"Distortion, Perseveration"
-page-00072,shape_5.jpg,shape_2.jpg,7.4061,130.2306,211.8345,35,3,"Distortion, Perseveration"
+page-00072,shape_5.jpg,shape_2.jpg,7.4061,130.2306,211.8345,35,3,Perseveration
 page-00072,shape_6.jpg,shape_2.jpg,21.3847,130.2306,199.531,35,12,"Distortion, Perseveration"
 page-00072,shape_7.jpg,shape_2.jpg,21.4392,130.2306,204.4379,35,7,"Distortion, Perseveration"
 page-00072,shape_8.jpg,shape_2.jpg,21.5606,130.2306,207.5276,35,20,"Distortion, Perseveration"
-page-00072,shape_10.jpg,shape_6.jpg,8.463,133.3604,184.1858,13,1,"Distortion, Perseveration"
-page-00072,shape_0.jpg,shape_7.jpg,6.0846,154.013,138.4393,2,4,"Distortion, Integration Failure, Perseveration"
-page-00072,shape_2.jpg,shape_7.jpg,20.907,154.013,148.8294,2,1,"Distortion, Perseveration"
-page-00072,shape_3.jpg,shape_7.jpg,6.0027,154.013,142.3855,2,3,"Distortion, Integration Failure, Perseveration"
-page-00072,shape_4.jpg,shape_7.jpg,20.5207,154.013,143.0794,2,2,"Distortion, Perseveration"
-page-00072,shape_9.jpg,shape_7.jpg,5.9945,154.013,148.3832,2,1,"Distortion, Perseveration"
-page-00073,shape_7.jpg,shape_0.jpg,5.7028,149.8032,205.0,1,1,"Distortion, Perseveration"
-page-00073,shape_8.jpg,shape_0.jpg,5.7905,149.8032,196.7574,1,4,"Distortion, Integration Failure, Perseveration"
-page-00073,shape_2.jpg,shape_2.jpg,8.0232,130.2306,205.7517,35,4,"Distortion, Perseveration"
-page-00073,shape_0.jpg,shape_6.jpg,8.5073,133.3604,181.8584,13,1,"Distortion, Perseveration"
-page-00073,shape_4.jpg,shape_6.jpg,8.5115,133.3604,180.6283,13,1,"Distortion, Perseveration"
-page-00073,shape_5.jpg,shape_6.jpg,7.9189,133.3604,179.5015,13,8,"Distortion, Perseveration"
-page-00073,shape_3.jpg,shape_7.jpg,6.089,154.013,146.3668,2,1,"Distortion, Perseveration"
-page-00073,shape_6.jpg,shape_7.jpg,20.4825,154.013,144.2477,2,32,"Distortion, Integration Failure, Perseveration"
-page-00073,shape_1.jpg,shape_8.jpg,6.8754,138.0036,189.4671,3,1,"Distortion, Perseveration"
-page-00074,shape_0.jpg,shape_0.jpg,6.0202,149.8032,195.3475,1,2,"Distortion, Integration Failure, Perseveration"
+page-00072,shape_10.jpg,shape_6.jpg,8.463,133.3604,184.1858,13,1,No Significant Errors
+page-00072,shape_0.jpg,shape_7.jpg,6.0846,154.013,138.4393,2,4,"Omission, Integration Failure"
+page-00072,shape_2.jpg,shape_7.jpg,20.907,154.013,148.8294,2,1,"Distortion, Omission"
+page-00072,shape_3.jpg,shape_7.jpg,6.0027,154.013,142.3855,2,3,"Omission, Integration Failure"
+page-00072,shape_4.jpg,shape_7.jpg,20.5207,154.013,143.0794,2,2,"Distortion, Omission"
+page-00072,shape_9.jpg,shape_7.jpg,5.9945,154.013,148.3832,2,1,Omission
+page-00073,shape_7.jpg,shape_0.jpg,5.7028,149.8032,205.0,1,1,Perseveration
+page-00073,shape_8.jpg,shape_0.jpg,5.7905,149.8032,196.7574,1,4,"Integration Failure, Perseveration"
+page-00073,shape_2.jpg,shape_2.jpg,8.0232,130.2306,205.7517,35,4,Perseveration
+page-00073,shape_0.jpg,shape_6.jpg,8.5073,133.3604,181.8584,13,1,No Significant Errors
+page-00073,shape_4.jpg,shape_6.jpg,8.5115,133.3604,180.6283,13,1,No Significant Errors
+page-00073,shape_5.jpg,shape_6.jpg,7.9189,133.3604,179.5015,13,8,Omission
+page-00073,shape_3.jpg,shape_7.jpg,6.089,154.013,146.3668,2,1,Omission
+page-00073,shape_6.jpg,shape_7.jpg,20.4825,154.013,144.2477,2,32,"Distortion, Omission, Integration Failure"
+page-00073,shape_1.jpg,shape_8.jpg,6.8754,138.0036,189.4671,3,1,No Significant Errors
+page-00074,shape_0.jpg,shape_0.jpg,6.0202,149.8032,195.3475,1,2,"Integration Failure, Perseveration"
 page-00074,shape_10.jpg,shape_2.jpg,21.5358,130.2306,207.5069,35,3,"Distortion, Perseveration"
 page-00074,shape_5.jpg,shape_2.jpg,21.5492,130.2306,209.5793,35,1,"Distortion, Perseveration"
-page-00074,shape_8.jpg,shape_2.jpg,7.9396,130.2306,215.5655,35,1,"Distortion, Perseveration"
-page-00074,shape_3.jpg,shape_6.jpg,8.4242,133.3604,186.6224,13,1,"Distortion, Perseveration"
-page-00074,shape_6.jpg,shape_6.jpg,7.9734,133.3604,174.5457,13,1,"Distortion, Perseveration"
-page-00074,shape_7.jpg,shape_6.jpg,8.4738,133.3604,183.2389,13,1,"Distortion, Perseveration"
-page-00074,shape_1.jpg,shape_7.jpg,5.7828,154.013,139.8925,2,4,"Distortion, Integration Failure, Perseveration"
-page-00074,shape_4.jpg,shape_7.jpg,20.908,154.013,146.1028,2,1,"Distortion, Perseveration"
-page-00074,shape_9.jpg,shape_7.jpg,20.431,154.013,144.722,2,1,"Distortion, Perseveration"
-page-00074,shape_2.jpg,shape_8.jpg,6.8683,138.0036,190.5,3,1,"Distortion, Perseveration"
-page-00075,shape_5.jpg,shape_0.jpg,6.0031,149.8032,205.3934,1,1,"Distortion, Perseveration"
-page-00075,shape_4.jpg,shape_2.jpg,7.927,130.2306,212.1517,35,1,"Distortion, Perseveration"
-page-00075,shape_0.jpg,shape_7.jpg,20.8044,154.013,139.9252,2,3,"Distortion, Integration Failure, Perseveration"
-page-00075,shape_1.jpg,shape_7.jpg,20.3852,154.013,137.9276,2,6,"Distortion, Integration Failure, Perseveration"
-page-00075,shape_3.jpg,shape_7.jpg,20.9024,154.013,142.1869,2,1,"Distortion, Perseveration"
-page-00075,shape_6.jpg,shape_7.jpg,20.5511,154.013,136.8879,2,3,"Distortion, Integration Failure, Perseveration"
-page-00075,shape_2.jpg,shape_8.jpg,6.6053,138.0036,186.5569,3,4,"Distortion, Integration Failure, Perseveration"
+page-00074,shape_8.jpg,shape_2.jpg,7.9396,130.2306,215.5655,35,1,Perseveration
+page-00074,shape_3.jpg,shape_6.jpg,8.4242,133.3604,186.6224,13,1,No Significant Errors
+page-00074,shape_6.jpg,shape_6.jpg,7.9734,133.3604,174.5457,13,1,Omission
+page-00074,shape_7.jpg,shape_6.jpg,8.4738,133.3604,183.2389,13,1,No Significant Errors
+page-00074,shape_1.jpg,shape_7.jpg,5.7828,154.013,139.8925,2,4,"Omission, Integration Failure"
+page-00074,shape_4.jpg,shape_7.jpg,20.908,154.013,146.1028,2,1,"Distortion, Omission"
+page-00074,shape_9.jpg,shape_7.jpg,20.431,154.013,144.722,2,1,"Distortion, Omission"
+page-00074,shape_2.jpg,shape_8.jpg,6.8683,138.0036,190.5,3,1,Perseveration
+page-00075,shape_5.jpg,shape_0.jpg,6.0031,149.8032,205.3934,1,1,Perseveration
+page-00075,shape_4.jpg,shape_2.jpg,7.927,130.2306,212.1517,35,1,Perseveration
+page-00075,shape_0.jpg,shape_7.jpg,20.8044,154.013,139.9252,2,3,"Distortion, Omission, Integration Failure"
+page-00075,shape_1.jpg,shape_7.jpg,20.3852,154.013,137.9276,2,6,"Distortion, Omission, Integration Failure"
+page-00075,shape_3.jpg,shape_7.jpg,20.9024,154.013,142.1869,2,1,"Distortion, Omission"
+page-00075,shape_6.jpg,shape_7.jpg,20.5511,154.013,136.8879,2,3,"Distortion, Omission, Integration Failure"
+page-00075,shape_2.jpg,shape_8.jpg,6.6053,138.0036,186.5569,3,4,Integration Failure
 page-00076,shape_5.jpg,shape_2.jpg,21.3959,130.2306,202.7621,35,1,"Distortion, Perseveration"
-page-00076,shape_8.jpg,shape_2.jpg,7.9723,130.2306,211.5,35,3,"Distortion, Perseveration"
-page-00076,shape_0.jpg,shape_6.jpg,8.0925,133.3604,177.7552,13,4,"Distortion, Perseveration"
-page-00076,shape_4.jpg,shape_6.jpg,8.3945,133.3604,184.4779,13,1,"Distortion, Perseveration"
-page-00076,shape_3.jpg,shape_7.jpg,6.0217,154.013,144.2687,2,1,"Distortion, Perseveration"
-page-00076,shape_6.jpg,shape_7.jpg,20.3721,154.013,136.0444,2,1,"Distortion, Perseveration"
-page-00076,shape_7.jpg,shape_7.jpg,20.7992,154.013,146.9299,2,1,"Distortion, Perseveration"
-page-00076,shape_1.jpg,shape_8.jpg,6.3876,138.0036,173.503,3,4,"Distortion, Integration Failure, Perseveration"
-page-00076,shape_2.jpg,shape_8.jpg,6.8237,138.0036,188.7425,3,1,"Distortion, Perseveration"
+page-00076,shape_8.jpg,shape_2.jpg,7.9723,130.2306,211.5,35,3,Perseveration
+page-00076,shape_0.jpg,shape_6.jpg,8.0925,133.3604,177.7552,13,4,Omission
+page-00076,shape_4.jpg,shape_6.jpg,8.3945,133.3604,184.4779,13,1,No Significant Errors
+page-00076,shape_3.jpg,shape_7.jpg,6.0217,154.013,144.2687,2,1,Omission
+page-00076,shape_6.jpg,shape_7.jpg,20.3721,154.013,136.0444,2,1,"Distortion, Omission"
+page-00076,shape_7.jpg,shape_7.jpg,20.7992,154.013,146.9299,2,1,"Distortion, Omission"
+page-00076,shape_1.jpg,shape_8.jpg,6.3876,138.0036,173.503,3,4,"Omission, Integration Failure"
+page-00076,shape_2.jpg,shape_8.jpg,6.8237,138.0036,188.7425,3,1,No Significant Errors
 page-00077,shape_6.jpg,shape_2.jpg,21.4765,130.2306,205.6414,35,5,"Distortion, Perseveration"
 page-00077,shape_7.jpg,shape_2.jpg,21.5825,130.2306,207.0552,35,7,"Distortion, Perseveration"
 page-00077,shape_8.jpg,shape_2.jpg,21.4628,130.2306,200.7517,35,13,"Distortion, Perseveration"
-page-00077,shape_9.jpg,shape_2.jpg,7.9819,130.2306,207.7241,35,3,"Distortion, Perseveration"
-page-00077,shape_4.jpg,shape_6.jpg,8.2554,133.3604,180.9145,13,4,"Distortion, Perseveration"
-page-00077,shape_0.jpg,shape_7.jpg,20.4987,154.013,137.1963,2,4,"Distortion, Integration Failure, Perseveration"
-page-00077,shape_2.jpg,shape_7.jpg,6.0627,154.013,147.0093,2,1,"Distortion, Perseveration"
-page-00077,shape_3.jpg,shape_7.jpg,6.0036,154.013,148.7804,2,1,"Distortion, Perseveration"
-page-00077,shape_5.jpg,shape_7.jpg,20.5525,154.013,144.9229,2,1,"Distortion, Perseveration"
-page-00077,shape_1.jpg,shape_8.jpg,6.5972,138.0036,180.0749,3,3,"Distortion, Perseveration"
-page-00078,shape_2.jpg,shape_0.jpg,5.8868,149.8032,191.5213,1,3,"Distortion, Integration Failure, Perseveration"
-page-00078,shape_4.jpg,shape_2.jpg,8.0903,130.2306,215.8241,35,1,"Distortion, Perseveration"
-page-00078,shape_5.jpg,shape_2.jpg,7.8525,130.2306,200.6724,35,12,"Distortion, Perseveration"
+page-00077,shape_9.jpg,shape_2.jpg,7.9819,130.2306,207.7241,35,3,Perseveration
+page-00077,shape_4.jpg,shape_6.jpg,8.2554,133.3604,180.9145,13,4,No Significant Errors
+page-00077,shape_0.jpg,shape_7.jpg,20.4987,154.013,137.1963,2,4,"Distortion, Omission, Integration Failure"
+page-00077,shape_2.jpg,shape_7.jpg,6.0627,154.013,147.0093,2,1,Omission
+page-00077,shape_3.jpg,shape_7.jpg,6.0036,154.013,148.7804,2,1,Omission
+page-00077,shape_5.jpg,shape_7.jpg,20.5525,154.013,144.9229,2,1,"Distortion, Omission"
+page-00077,shape_1.jpg,shape_8.jpg,6.5972,138.0036,180.0749,3,3,No Significant Errors
+page-00078,shape_2.jpg,shape_0.jpg,5.8868,149.8032,191.5213,1,3,"Integration Failure, Perseveration"
+page-00078,shape_4.jpg,shape_2.jpg,8.0903,130.2306,215.8241,35,1,Perseveration
+page-00078,shape_5.jpg,shape_2.jpg,7.8525,130.2306,200.6724,35,12,Perseveration
 page-00078,shape_7.jpg,shape_2.jpg,21.4246,130.2306,214.2241,35,1,"Distortion, Perseveration"
-page-00078,shape_6.jpg,shape_6.jpg,8.422,133.3604,181.7699,13,2,"Distortion, Perseveration"
-page-00078,shape_0.jpg,shape_7.jpg,20.4767,154.013,135.1192,2,4,"Distortion, Integration Failure, Perseveration"
-page-00078,shape_3.jpg,shape_7.jpg,20.5128,154.013,145.0304,2,4,"Distortion, Integration Failure, Perseveration"
-page-00078,shape_1.jpg,shape_8.jpg,6.8381,138.0036,188.7246,3,1,"Distortion, Perseveration"
-page-00078,shape_8.jpg,shape_8.jpg,6.3498,138.0036,176.1916,3,3,"Distortion, Perseveration"
-page-00079,shape_0.jpg,shape_0.jpg,5.9531,149.8032,208.718,1,1,"Distortion, Perseveration"
-page-00079,shape_4.jpg,shape_0.jpg,5.6338,149.8032,197.6852,1,1,"Distortion, Perseveration"
-page-00079,shape_7.jpg,shape_0.jpg,6.0019,149.8032,197.5377,1,14,"Distortion, Integration Failure, Perseveration"
-page-00079,shape_1.jpg,shape_2.jpg,7.94,130.2306,209.1414,35,4,"Distortion, Perseveration"
-page-00079,shape_3.jpg,shape_2.jpg,8.0607,130.2306,217.5448,35,6,"Distortion, Perseveration"
-page-00079,shape_5.jpg,shape_7.jpg,5.7678,154.013,139.9813,2,2,"Distortion, Perseveration"
-page-00079,shape_6.jpg,shape_7.jpg,20.5154,154.013,147.8692,2,1,"Distortion, Perseveration"
-page-00079,shape_2.jpg,shape_8.jpg,6.6466,138.0036,180.3772,3,4,"Distortion, Integration Failure, Perseveration"
-page-0008,shape_2.jpg,shape_0.jpg,5.3094,149.8032,196.0492,1,6,"Distortion, Integration Failure, Perseveration"
-page-0008,shape_6.jpg,shape_2.jpg,7.776,130.2306,203.0793,35,6,"Distortion, Perseveration"
-page-0008,shape_7.jpg,shape_2.jpg,7.7761,130.2306,203.3345,35,7,"Distortion, Perseveration"
+page-00078,shape_6.jpg,shape_6.jpg,8.422,133.3604,181.7699,13,2,No Significant Errors
+page-00078,shape_0.jpg,shape_7.jpg,20.4767,154.013,135.1192,2,4,"Distortion, Omission, Integration Failure"
+page-00078,shape_3.jpg,shape_7.jpg,20.5128,154.013,145.0304,2,4,"Distortion, Omission, Integration Failure"
+page-00078,shape_1.jpg,shape_8.jpg,6.8381,138.0036,188.7246,3,1,No Significant Errors
+page-00078,shape_8.jpg,shape_8.jpg,6.3498,138.0036,176.1916,3,3,Omission
+page-00079,shape_0.jpg,shape_0.jpg,5.9531,149.8032,208.718,1,1,Perseveration
+page-00079,shape_4.jpg,shape_0.jpg,5.6338,149.8032,197.6852,1,1,Perseveration
+page-00079,shape_7.jpg,shape_0.jpg,6.0019,149.8032,197.5377,1,14,"Integration Failure, Perseveration"
+page-00079,shape_1.jpg,shape_2.jpg,7.94,130.2306,209.1414,35,4,Perseveration
+page-00079,shape_3.jpg,shape_2.jpg,8.0607,130.2306,217.5448,35,6,Perseveration
+page-00079,shape_5.jpg,shape_7.jpg,5.7678,154.013,139.9813,2,2,Omission
+page-00079,shape_6.jpg,shape_7.jpg,20.5154,154.013,147.8692,2,1,"Distortion, Omission"
+page-00079,shape_2.jpg,shape_8.jpg,6.6466,138.0036,180.3772,3,4,Integration Failure
+page-0008,shape_2.jpg,shape_0.jpg,5.3094,149.8032,196.0492,1,6,"Integration Failure, Perseveration"
+page-0008,shape_6.jpg,shape_2.jpg,7.776,130.2306,203.0793,35,6,Perseveration
+page-0008,shape_7.jpg,shape_2.jpg,7.7761,130.2306,203.3345,35,7,Perseveration
 page-0008,shape_9.jpg,shape_2.jpg,21.5865,130.2306,220.1759,35,1,"Distortion, Perseveration"
-page-0008,shape_0.jpg,shape_6.jpg,8.078,133.3604,169.944,13,4,"Distortion, Perseveration"
-page-0008,shape_3.jpg,shape_6.jpg,8.4055,133.3604,181.3009,13,1,"Distortion, Perseveration"
-page-0008,shape_1.jpg,shape_7.jpg,5.5327,154.013,132.8178,2,7,"Distortion, Integration Failure, Perseveration"
-page-0008,shape_4.jpg,shape_7.jpg,5.6818,154.013,141.9182,2,1,"Distortion, Perseveration"
-page-0008,shape_5.jpg,shape_7.jpg,6.0873,154.013,144.7921,2,1,"Distortion, Perseveration"
-page-0008,shape_8.jpg,shape_7.jpg,20.4801,154.013,133.1495,2,5,"Distortion, Integration Failure, Perseveration"
-page-00080,shape_2.jpg,shape_0.jpg,5.9303,149.8032,201.9311,1,2,"Distortion, Integration Failure, Perseveration"
-page-00080,shape_7.jpg,shape_0.jpg,5.9306,149.8032,207.5902,1,1,"Distortion, Perseveration"
-page-00080,shape_8.jpg,shape_0.jpg,5.884,149.8032,208.3574,1,1,"Distortion, Perseveration"
+page-0008,shape_0.jpg,shape_6.jpg,8.078,133.3604,169.944,13,4,Omission
+page-0008,shape_3.jpg,shape_6.jpg,8.4055,133.3604,181.3009,13,1,No Significant Errors
+page-0008,shape_1.jpg,shape_7.jpg,5.5327,154.013,132.8178,2,7,"Omission, Integration Failure"
+page-0008,shape_4.jpg,shape_7.jpg,5.6818,154.013,141.9182,2,1,Omission
+page-0008,shape_5.jpg,shape_7.jpg,6.0873,154.013,144.7921,2,1,Omission
+page-0008,shape_8.jpg,shape_7.jpg,20.4801,154.013,133.1495,2,5,"Distortion, Omission, Integration Failure"
+page-00080,shape_2.jpg,shape_0.jpg,5.9303,149.8032,201.9311,1,2,"Integration Failure, Perseveration"
+page-00080,shape_7.jpg,shape_0.jpg,5.9306,149.8032,207.5902,1,1,Perseveration
+page-00080,shape_8.jpg,shape_0.jpg,5.884,149.8032,208.3574,1,1,Perseveration
 page-00080,shape_3.jpg,shape_2.jpg,21.509,130.2306,218.031,35,1,"Distortion, Perseveration"
 page-00080,shape_4.jpg,shape_2.jpg,21.4833,130.2306,216.7621,35,1,"Distortion, Perseveration"
-page-00080,shape_6.jpg,shape_6.jpg,8.4504,133.3604,179.649,13,4,"Distortion, Perseveration"
-page-00080,shape_9.jpg,shape_6.jpg,8.1307,133.3604,175.3333,13,32,"Distortion, Integration Failure, Perseveration"
-page-00080,shape_0.jpg,shape_7.jpg,5.8447,154.013,137.4065,2,4,"Distortion, Integration Failure, Perseveration"
-page-00080,shape_1.jpg,shape_7.jpg,6.0967,154.013,147.3692,2,3,"Distortion, Integration Failure, Perseveration"
-page-00080,shape_5.jpg,shape_7.jpg,20.9024,154.013,143.7056,2,1,"Distortion, Perseveration"
-page-00080,shape_10.jpg,shape_8.jpg,6.7854,138.0036,178.1916,3,2,"Distortion, Perseveration"
-page-00081,shape_0.jpg,shape_0.jpg,5.9028,149.8032,197.1738,1,4,"Distortion, Integration Failure, Perseveration"
-page-00081,shape_5.jpg,shape_0.jpg,5.6308,149.8032,200.8984,1,1,"Distortion, Perseveration"
+page-00080,shape_6.jpg,shape_6.jpg,8.4504,133.3604,179.649,13,4,Omission
+page-00080,shape_9.jpg,shape_6.jpg,8.1307,133.3604,175.3333,13,32,"Omission, Integration Failure"
+page-00080,shape_0.jpg,shape_7.jpg,5.8447,154.013,137.4065,2,4,"Omission, Integration Failure"
+page-00080,shape_1.jpg,shape_7.jpg,6.0967,154.013,147.3692,2,3,"Omission, Integration Failure"
+page-00080,shape_5.jpg,shape_7.jpg,20.9024,154.013,143.7056,2,1,"Distortion, Omission"
+page-00080,shape_10.jpg,shape_8.jpg,6.7854,138.0036,178.1916,3,2,Omission
+page-00081,shape_0.jpg,shape_0.jpg,5.9028,149.8032,197.1738,1,4,"Integration Failure, Perseveration"
+page-00081,shape_5.jpg,shape_0.jpg,5.6308,149.8032,200.8984,1,1,Perseveration
 page-00081,shape_2.jpg,shape_2.jpg,21.4764,130.2306,208.3,35,6,"Distortion, Perseveration"
-page-00081,shape_1.jpg,shape_6.jpg,7.9916,133.3604,177.9705,13,1,"Distortion, Perseveration"
-page-00081,shape_3.jpg,shape_7.jpg,6.0857,154.013,148.0584,2,1,"Distortion, Perseveration"
-page-00081,shape_4.jpg,shape_7.jpg,20.8935,154.013,148.8341,2,1,"Distortion, Perseveration"
-page-00081,shape_6.jpg,shape_7.jpg,20.8778,154.013,142.8598,2,3,"Distortion, Integration Failure, Perseveration"
+page-00081,shape_1.jpg,shape_6.jpg,7.9916,133.3604,177.9705,13,1,Omission
+page-00081,shape_3.jpg,shape_7.jpg,6.0857,154.013,148.0584,2,1,Omission
+page-00081,shape_4.jpg,shape_7.jpg,20.8935,154.013,148.8341,2,1,"Distortion, Omission"
+page-00081,shape_6.jpg,shape_7.jpg,20.8778,154.013,142.8598,2,3,"Distortion, Omission, Integration Failure"
 page-00082,shape_3.jpg,shape_2.jpg,21.5844,130.2306,215.0207,35,1,"Distortion, Perseveration"
-page-00082,shape_4.jpg,shape_6.jpg,8.4663,133.3604,189.1032,13,1,"Distortion, Perseveration"
-page-00082,shape_0.jpg,shape_7.jpg,20.8814,154.013,140.0911,2,2,"Distortion, Perseveration"
-page-00082,shape_1.jpg,shape_7.jpg,5.9249,154.013,139.1355,2,5,"Distortion, Integration Failure, Perseveration"
-page-00082,shape_2.jpg,shape_7.jpg,20.5443,154.013,148.0327,2,1,"Distortion, Perseveration"
-page-00082,shape_5.jpg,shape_7.jpg,20.5114,154.013,143.9393,2,3,"Distortion, Integration Failure, Perseveration"
-page-00083,shape_1.jpg,shape_0.jpg,5.8072,149.8032,207.3475,1,1,"Distortion, Perseveration"
+page-00082,shape_4.jpg,shape_6.jpg,8.4663,133.3604,189.1032,13,1,No Significant Errors
+page-00082,shape_0.jpg,shape_7.jpg,20.8814,154.013,140.0911,2,2,"Distortion, Omission"
+page-00082,shape_1.jpg,shape_7.jpg,5.9249,154.013,139.1355,2,5,"Omission, Integration Failure"
+page-00082,shape_2.jpg,shape_7.jpg,20.5443,154.013,148.0327,2,1,"Distortion, Omission"
+page-00082,shape_5.jpg,shape_7.jpg,20.5114,154.013,143.9393,2,3,"Distortion, Omission, Integration Failure"
+page-00083,shape_1.jpg,shape_0.jpg,5.8072,149.8032,207.3475,1,1,Perseveration
 page-00083,shape_3.jpg,shape_2.jpg,21.5503,130.2306,214.4552,35,1,"Distortion, Perseveration"
-page-00083,shape_8.jpg,shape_2.jpg,7.9392,130.2306,208.1034,35,2,"Distortion, Perseveration"
-page-00083,shape_0.jpg,shape_6.jpg,8.4704,133.3604,185.6136,13,4,"Distortion, Perseveration"
-page-00083,shape_5.jpg,shape_6.jpg,8.3453,133.3604,175.6047,13,4,"Distortion, Perseveration"
-page-00083,shape_7.jpg,shape_6.jpg,8.3469,133.3604,171.2183,13,6,"Distortion, Perseveration"
-page-00083,shape_2.jpg,shape_7.jpg,20.7669,154.013,140.9019,2,4,"Distortion, Integration Failure, Perseveration"
-page-00083,shape_4.jpg,shape_7.jpg,20.8475,154.013,145.5047,2,2,"Distortion, Perseveration"
-page-00083,shape_6.jpg,shape_7.jpg,20.693,154.013,135.1262,2,10,"Distortion, Integration Failure, Perseveration"
-page-00084,shape_10.jpg,shape_0.jpg,5.8425,149.8032,201.7902,1,3,"Distortion, Integration Failure, Perseveration"
+page-00083,shape_8.jpg,shape_2.jpg,7.9392,130.2306,208.1034,35,2,Perseveration
+page-00083,shape_0.jpg,shape_6.jpg,8.4704,133.3604,185.6136,13,4,No Significant Errors
+page-00083,shape_5.jpg,shape_6.jpg,8.3453,133.3604,175.6047,13,4,Omission
+page-00083,shape_7.jpg,shape_6.jpg,8.3469,133.3604,171.2183,13,6,Omission
+page-00083,shape_2.jpg,shape_7.jpg,20.7669,154.013,140.9019,2,4,"Distortion, Omission, Integration Failure"
+page-00083,shape_4.jpg,shape_7.jpg,20.8475,154.013,145.5047,2,2,"Distortion, Omission"
+page-00083,shape_6.jpg,shape_7.jpg,20.693,154.013,135.1262,2,10,"Distortion, Omission, Integration Failure"
+page-00084,shape_10.jpg,shape_0.jpg,5.8425,149.8032,201.7902,1,3,"Integration Failure, Perseveration"
 page-00084,shape_8.jpg,shape_2.jpg,21.259,130.2306,197.431,35,13,"Distortion, Perseveration"
 page-00084,shape_9.jpg,shape_2.jpg,21.3192,130.2306,200.5828,35,14,"Distortion, Perseveration"
-page-00084,shape_3.jpg,shape_6.jpg,8.3575,133.3604,187.2183,13,1,"Distortion, Perseveration"
-page-00084,shape_0.jpg,shape_7.jpg,20.4235,154.013,135.6565,2,4,"Distortion, Integration Failure, Perseveration"
-page-00084,shape_2.jpg,shape_7.jpg,6.075,154.013,149.6168,2,1,"Distortion, Perseveration"
-page-00084,shape_4.jpg,shape_7.jpg,20.5215,154.013,145.8341,2,1,"Distortion, Perseveration"
-page-00084,shape_5.jpg,shape_7.jpg,20.8918,154.013,140.2547,2,1,"Distortion, Perseveration"
-page-00084,shape_6.jpg,shape_7.jpg,20.8776,154.013,141.9393,2,1,"Distortion, Perseveration"
-page-00084,shape_7.jpg,shape_7.jpg,20.4076,154.013,134.2336,2,7,"Distortion, Integration Failure, Perseveration"
-page-00084,shape_1.jpg,shape_8.jpg,6.5904,138.0036,177.9132,3,4,"Distortion, Integration Failure, Perseveration"
-page-00085,shape_1.jpg,shape_0.jpg,5.7835,149.8032,192.8984,1,2,"Distortion, Integration Failure, Perseveration"
-page-00085,shape_2.jpg,shape_0.jpg,5.5973,149.8032,202.4361,1,1,"Distortion, Perseveration"
-page-00085,shape_6.jpg,shape_0.jpg,5.5631,149.8032,202.223,1,1,"Distortion, Perseveration"
-page-00085,shape_9.jpg,shape_0.jpg,5.9865,149.8032,204.8721,1,2,"Distortion, Integration Failure, Perseveration"
-page-00085,shape_10.jpg,shape_2.jpg,8.0991,130.2306,208.9207,35,3,"Distortion, Perseveration"
-page-00085,shape_4.jpg,shape_2.jpg,7.9855,130.2306,215.3966,35,1,"Distortion, Perseveration"
+page-00084,shape_3.jpg,shape_6.jpg,8.3575,133.3604,187.2183,13,1,No Significant Errors
+page-00084,shape_0.jpg,shape_7.jpg,20.4235,154.013,135.6565,2,4,"Distortion, Omission, Integration Failure"
+page-00084,shape_2.jpg,shape_7.jpg,6.075,154.013,149.6168,2,1,Omission
+page-00084,shape_4.jpg,shape_7.jpg,20.5215,154.013,145.8341,2,1,"Distortion, Omission"
+page-00084,shape_5.jpg,shape_7.jpg,20.8918,154.013,140.2547,2,1,"Distortion, Omission"
+page-00084,shape_6.jpg,shape_7.jpg,20.8776,154.013,141.9393,2,1,"Distortion, Omission"
+page-00084,shape_7.jpg,shape_7.jpg,20.4076,154.013,134.2336,2,7,"Distortion, Omission, Integration Failure"
+page-00084,shape_1.jpg,shape_8.jpg,6.5904,138.0036,177.9132,3,4,"Omission, Integration Failure"
+page-00085,shape_1.jpg,shape_0.jpg,5.7835,149.8032,192.8984,1,2,"Integration Failure, Perseveration"
+page-00085,shape_2.jpg,shape_0.jpg,5.5973,149.8032,202.4361,1,1,Perseveration
+page-00085,shape_6.jpg,shape_0.jpg,5.5631,149.8032,202.223,1,1,Perseveration
+page-00085,shape_9.jpg,shape_0.jpg,5.9865,149.8032,204.8721,1,2,"Integration Failure, Perseveration"
+page-00085,shape_10.jpg,shape_2.jpg,8.0991,130.2306,208.9207,35,3,Perseveration
+page-00085,shape_4.jpg,shape_2.jpg,7.9855,130.2306,215.3966,35,1,Perseveration
 page-00085,shape_7.jpg,shape_2.jpg,21.4036,130.05,204.8138,35,8,"Distortion, Perseveration"
-page-00085,shape_3.jpg,shape_6.jpg,8.0341,133.3604,178.9705,13,2,"Distortion, Perseveration"
-page-00085,shape_8.jpg,shape_6.jpg,8.4782,133.3604,184.5811,13,2,"Distortion, Perseveration"
-page-00085,shape_0.jpg,shape_7.jpg,20.8494,154.013,138.5958,2,4,"Distortion, Integration Failure, Perseveration"
-page-00085,shape_5.jpg,shape_7.jpg,20.813,154.013,142.764,2,1,"Distortion, Perseveration"
-page-00086,shape_0.jpg,shape_0.jpg,5.8053,149.8032,197.5082,1,3,"Distortion, Integration Failure, Perseveration"
+page-00085,shape_3.jpg,shape_6.jpg,8.0341,133.3604,178.9705,13,2,Omission
+page-00085,shape_8.jpg,shape_6.jpg,8.4782,133.3604,184.5811,13,2,No Significant Errors
+page-00085,shape_0.jpg,shape_7.jpg,20.8494,154.013,138.5958,2,4,"Distortion, Omission, Integration Failure"
+page-00085,shape_5.jpg,shape_7.jpg,20.813,154.013,142.764,2,1,"Distortion, Omission"
+page-00086,shape_0.jpg,shape_0.jpg,5.8053,149.8032,197.5082,1,3,"Integration Failure, Perseveration"
 page-00086,shape_1.jpg,shape_2.jpg,21.4115,130.2306,208.7172,35,4,"Distortion, Perseveration"
 page-00086,shape_2.jpg,shape_2.jpg,21.552,130.2306,215.2207,35,3,"Distortion, Perseveration"
 page-00086,shape_5.jpg,shape_2.jpg,21.5668,130.2306,218.7897,35,1,"Distortion, Perseveration"
-page-00086,shape_6.jpg,shape_2.jpg,8.0081,130.2306,212.5069,35,1,"Distortion, Perseveration"
-page-00086,shape_9.jpg,shape_2.jpg,7.6364,130.2306,200.7966,35,11,"Distortion, Perseveration"
-page-00086,shape_4.jpg,shape_6.jpg,8.3167,133.3604,184.1917,13,1,"Distortion, Perseveration"
-page-00086,shape_10.jpg,shape_7.jpg,6.0403,154.013,143.5467,2,4,"Distortion, Integration Failure, Perseveration"
-page-00086,shape_3.jpg,shape_7.jpg,20.8788,154.013,149.972,2,1,"Distortion, Perseveration"
-page-00086,shape_7.jpg,shape_7.jpg,20.4454,154.013,139.771,2,1,"Distortion, Perseveration"
-page-00086,shape_8.jpg,shape_7.jpg,20.7992,154.013,138.5864,2,3,"Distortion, Integration Failure, Perseveration"
-page-00086,shape_11.jpg,shape_8.jpg,6.6655,138.0036,187.6766,3,5,"Distortion, Integration Failure, Perseveration"
-page-00086,shape_12.jpg,shape_8.jpg,6.8322,138.0036,183.1018,3,3,"Distortion, Perseveration"
-page-00087,shape_1.jpg,shape_2.jpg,7.976,130.2306,211.3552,35,37,"Distortion, Integration Failure, Perseveration"
-page-00087,shape_2.jpg,shape_6.jpg,8.2633,133.3604,184.3569,13,1,"Distortion, Perseveration"
-page-00087,shape_0.jpg,shape_7.jpg,20.4518,154.013,130.6285,2,9,"Distortion, Integration Failure, Perseveration"
-page-00087,shape_3.jpg,shape_7.jpg,20.3978,154.013,137.5467,2,4,"Distortion, Integration Failure, Perseveration"
-page-00088,shape_2.jpg,shape_0.jpg,5.6439,149.8032,193.082,1,2,"Distortion, Integration Failure, Perseveration"
-page-00088,shape_3.jpg,shape_0.jpg,5.1548,149.8032,195.0328,1,1,"Distortion, Perseveration"
-page-00088,shape_5.jpg,shape_0.jpg,5.5686,149.8032,192.2754,1,13,"Distortion, Integration Failure, Perseveration"
-page-00088,shape_0.jpg,shape_2.jpg,8.0795,130.2306,222.1621,35,1,"Distortion, Perseveration"
+page-00086,shape_6.jpg,shape_2.jpg,8.0081,130.2306,212.5069,35,1,Perseveration
+page-00086,shape_9.jpg,shape_2.jpg,7.6364,130.2306,200.7966,35,11,Perseveration
+page-00086,shape_4.jpg,shape_6.jpg,8.3167,133.3604,184.1917,13,1,No Significant Errors
+page-00086,shape_10.jpg,shape_7.jpg,6.0403,154.013,143.5467,2,4,"Omission, Integration Failure"
+page-00086,shape_3.jpg,shape_7.jpg,20.8788,154.013,149.972,2,1,"Distortion, Omission"
+page-00086,shape_7.jpg,shape_7.jpg,20.4454,154.013,139.771,2,1,"Distortion, Omission"
+page-00086,shape_8.jpg,shape_7.jpg,20.7992,154.013,138.5864,2,3,"Distortion, Omission, Integration Failure"
+page-00086,shape_11.jpg,shape_8.jpg,6.6655,138.0036,187.6766,3,5,Integration Failure
+page-00086,shape_12.jpg,shape_8.jpg,6.8322,138.0036,183.1018,3,3,No Significant Errors
+page-00087,shape_1.jpg,shape_2.jpg,7.976,130.2306,211.3552,35,37,"Integration Failure, Perseveration"
+page-00087,shape_2.jpg,shape_6.jpg,8.2633,133.3604,184.3569,13,1,No Significant Errors
+page-00087,shape_4.jpg,shape_6.jpg,8.4193,133.3604,178.2271,13,36,"Omission, Integration Failure"
+page-00087,shape_0.jpg,shape_7.jpg,20.4518,154.013,130.6285,2,9,"Distortion, Omission, Integration Failure"
+page-00087,shape_3.jpg,shape_7.jpg,20.3978,154.013,137.5467,2,4,"Distortion, Omission, Integration Failure"
+page-00087,shape_5.jpg,shape_8.jpg,6.4228,138.0036,171.0449,3,3,Omission
+page-00088,shape_2.jpg,shape_0.jpg,5.6439,149.8032,193.082,1,2,"Integration Failure, Perseveration"
+page-00088,shape_3.jpg,shape_0.jpg,5.1548,149.8032,195.0328,1,1,Perseveration
+page-00088,shape_5.jpg,shape_0.jpg,5.5686,149.8032,192.2754,1,13,"Integration Failure, Perseveration"
+page-00088,shape_0.jpg,shape_2.jpg,8.0795,130.2306,222.1621,35,1,Perseveration
 page-00088,shape_1.jpg,shape_2.jpg,21.5825,130.2306,214.9966,35,1,"Distortion, Perseveration"
-page-00088,shape_6.jpg,shape_6.jpg,8.1424,133.3604,179.823,13,4,"Distortion, Perseveration"
-page-00088,shape_7.jpg,shape_6.jpg,8.2524,133.3604,183.9381,13,1,"Distortion, Perseveration"
-page-00088,shape_4.jpg,shape_7.jpg,6.0764,154.013,150.1145,2,1,"Distortion, Perseveration"
-page-00088,shape_8.jpg,shape_7.jpg,20.451,154.013,141.0631,2,3,"Distortion, Integration Failure, Perseveration"
-page-00088,shape_9.jpg,shape_7.jpg,20.5397,154.013,147.257,2,2,"Distortion, Perseveration"
-page-00089,shape_2.jpg,shape_0.jpg,5.7792,149.8032,193.2918,1,4,"Distortion, Integration Failure, Perseveration"
-page-00089,shape_6.jpg,shape_0.jpg,5.7974,149.8032,191.4,1,3,"Distortion, Integration Failure, Perseveration"
+page-00088,shape_6.jpg,shape_6.jpg,8.1424,133.3604,179.823,13,4,Omission
+page-00088,shape_7.jpg,shape_6.jpg,8.2524,133.3604,183.9381,13,1,No Significant Errors
+page-00088,shape_4.jpg,shape_7.jpg,6.0764,154.013,150.1145,2,1,Omission
+page-00088,shape_8.jpg,shape_7.jpg,20.451,154.013,141.0631,2,3,"Distortion, Omission, Integration Failure"
+page-00088,shape_9.jpg,shape_7.jpg,20.5397,154.013,147.257,2,2,"Distortion, Omission"
+page-00089,shape_2.jpg,shape_0.jpg,5.7792,149.8032,193.2918,1,4,"Integration Failure, Perseveration"
+page-00089,shape_6.jpg,shape_0.jpg,5.7974,149.8032,191.4,1,3,"Integration Failure, Perseveration"
 page-00089,shape_5.jpg,shape_2.jpg,21.5125,130.2306,206.1034,35,4,"Distortion, Perseveration"
-page-00089,shape_1.jpg,shape_7.jpg,20.5479,154.013,147.4346,2,1,"Distortion, Perseveration"
-page-00089,shape_0.jpg,shape_8.jpg,6.8639,138.0036,175.1228,3,4,"Distortion, Integration Failure, Perseveration"
-page-00089,shape_3.jpg,shape_8.jpg,6.7877,138.0036,187.3234,3,1,"Distortion, Perseveration"
-page-00089,shape_4.jpg,shape_8.jpg,6.5121,138.0036,185.8263,3,1,"Distortion, Perseveration"
-page-0009,shape_1.jpg,shape_0.jpg,5.1357,149.8032,184.0721,1,11,"Distortion, Integration Failure, Perseveration"
-page-0009,shape_4.jpg,shape_2.jpg,7.3744,130.2306,195.9379,35,26,"Distortion, Perseveration"
-page-0009,shape_0.jpg,shape_6.jpg,8.3764,133.3604,185.1917,13,1,"Distortion, Perseveration"
-page-0009,shape_2.jpg,shape_7.jpg,20.5433,154.013,146.5864,2,5,"Distortion, Integration Failure, Perseveration"
-page-0009,shape_5.jpg,shape_7.jpg,20.8899,154.013,141.4112,2,1,"Distortion, Perseveration"
-page-0009,shape_6.jpg,shape_7.jpg,20.9013,154.013,143.7991,2,2,"Distortion, Perseveration"
-page-0009,shape_7.jpg,shape_7.jpg,20.7856,154.013,139.9416,2,22,"Distortion, Integration Failure, Perseveration"
-page-0009,shape_3.jpg,shape_8.jpg,6.7616,138.0036,183.7066,3,2,"Distortion, Perseveration"
-page-0010,shape_0.jpg,shape_0.jpg,5.4295,149.8032,200.8262,1,11,"Distortion, Integration Failure, Perseveration"
-page-0010,shape_7.jpg,shape_0.jpg,5.7702,149.8032,205.5279,1,1,"Distortion, Perseveration"
-page-0010,shape_2.jpg,shape_2.jpg,7.8805,130.2306,204.4517,35,2,"Distortion, Perseveration"
+page-00089,shape_1.jpg,shape_7.jpg,20.5479,154.013,147.4346,2,1,"Distortion, Omission"
+page-00089,shape_0.jpg,shape_8.jpg,6.8639,138.0036,175.1228,3,4,"Omission, Integration Failure"
+page-00089,shape_3.jpg,shape_8.jpg,6.7877,138.0036,187.3234,3,1,No Significant Errors
+page-00089,shape_4.jpg,shape_8.jpg,6.5121,138.0036,185.8263,3,1,No Significant Errors
+page-0009,shape_1.jpg,shape_0.jpg,5.1357,149.8032,184.0721,1,11,Integration Failure
+page-0009,shape_4.jpg,shape_2.jpg,7.3744,130.2306,195.9379,35,26,Perseveration
+page-0009,shape_0.jpg,shape_6.jpg,8.3764,133.3604,185.1917,13,1,No Significant Errors
+page-0009,shape_2.jpg,shape_7.jpg,20.5433,154.013,146.5864,2,5,"Distortion, Omission, Integration Failure"
+page-0009,shape_5.jpg,shape_7.jpg,20.8899,154.013,141.4112,2,1,"Distortion, Omission"
+page-0009,shape_6.jpg,shape_7.jpg,20.9013,154.013,143.7991,2,2,"Distortion, Omission"
+page-0009,shape_7.jpg,shape_7.jpg,20.7856,154.013,139.9416,2,22,"Distortion, Omission, Integration Failure"
+page-0009,shape_3.jpg,shape_8.jpg,6.7616,138.0036,183.7066,3,2,No Significant Errors
+page-0010,shape_0.jpg,shape_0.jpg,5.4295,149.8032,200.8262,1,11,"Integration Failure, Perseveration"
+page-0010,shape_7.jpg,shape_0.jpg,5.7702,149.8032,205.5279,1,1,Perseveration
+page-0010,shape_2.jpg,shape_2.jpg,7.8805,130.2306,204.4517,35,2,Perseveration
 page-0010,shape_3.jpg,shape_2.jpg,21.4361,130.2306,202.8034,35,5,"Distortion, Perseveration"
-page-0010,shape_4.jpg,shape_2.jpg,7.6014,130.2306,206.9448,35,2,"Distortion, Perseveration"
-page-0010,shape_5.jpg,shape_2.jpg,7.4066,130.2306,197.5,35,14,"Distortion, Perseveration"
-page-0010,shape_6.jpg,shape_6.jpg,8.3402,133.3604,177.5044,13,5,"Distortion, Perseveration"
-page-0010,shape_1.jpg,shape_7.jpg,20.5072,154.013,146.6262,2,1,"Distortion, Perseveration"
-page-0010,shape_8.jpg,shape_7.jpg,5.7462,154.013,140.0444,2,3,"Distortion, Integration Failure, Perseveration"
+page-0010,shape_4.jpg,shape_2.jpg,7.6014,130.2306,206.9448,35,2,Perseveration
+page-0010,shape_5.jpg,shape_2.jpg,7.4066,130.2306,197.5,35,14,Perseveration
+page-0010,shape_6.jpg,shape_6.jpg,8.3402,133.3604,177.5044,13,5,Omission
+page-0010,shape_1.jpg,shape_7.jpg,20.5072,154.013,146.6262,2,1,"Distortion, Omission"
+page-0010,shape_8.jpg,shape_7.jpg,5.7462,154.013,140.0444,2,3,"Omission, Integration Failure"
 page-0011,shape_0.jpg,shape_2.jpg,21.5453,130.2306,208.4172,35,3,"Distortion, Perseveration"
-page-0011,shape_2.jpg,shape_2.jpg,8.1079,130.2306,211.7034,35,4,"Distortion, Perseveration"
+page-0011,shape_2.jpg,shape_2.jpg,8.1079,130.2306,211.7034,35,4,Perseveration
 page-0011,shape_5.jpg,shape_2.jpg,21.4941,130.2306,203.5655,35,5,"Distortion, Perseveration"
-page-0011,shape_4.jpg,shape_6.jpg,8.0666,133.3604,175.4897,13,15,"Distortion, Integration Failure, Perseveration"
-page-0011,shape_1.jpg,shape_7.jpg,5.8942,154.013,140.1893,2,4,"Distortion, Integration Failure, Perseveration"
-page-0011,shape_3.jpg,shape_7.jpg,20.8481,154.013,144.0958,2,1,"Distortion, Perseveration"
-page-0012,shape_3.jpg,shape_0.jpg,6.0255,149.8032,195.2492,1,2,"Distortion, Integration Failure, Perseveration"
-page-0012,shape_2.jpg,shape_2.jpg,8.073,130.2306,214.3621,35,4,"Distortion, Perseveration"
-page-0012,shape_4.jpg,shape_2.jpg,7.9205,130.2306,214.2793,35,2,"Distortion, Perseveration"
+page-0011,shape_4.jpg,shape_6.jpg,8.0666,133.3604,175.4897,13,15,"Omission, Integration Failure"
+page-0011,shape_1.jpg,shape_7.jpg,5.8942,154.013,140.1893,2,4,"Omission, Integration Failure"
+page-0011,shape_3.jpg,shape_7.jpg,20.8481,154.013,144.0958,2,1,"Distortion, Omission"
+page-0012,shape_3.jpg,shape_0.jpg,6.0255,149.8032,195.2492,1,2,"Integration Failure, Perseveration"
+page-0012,shape_2.jpg,shape_2.jpg,8.073,130.2306,214.3621,35,4,Perseveration
+page-0012,shape_4.jpg,shape_2.jpg,7.9205,130.2306,214.2793,35,2,Perseveration
 page-0012,shape_5.jpg,shape_2.jpg,21.2723,130.2306,200.2034,35,7,"Distortion, Perseveration"
-page-0012,shape_6.jpg,shape_2.jpg,8.0223,130.2306,205.1759,35,10,"Distortion, Perseveration"
-page-0012,shape_7.jpg,shape_2.jpg,7.7287,130.2306,204.1276,35,12,"Distortion, Perseveration"
-page-0012,shape_1.jpg,shape_6.jpg,8.2392,133.3604,178.1711,13,3,"Distortion, Perseveration"
-page-0012,shape_0.jpg,shape_7.jpg,20.532,154.013,136.4836,2,4,"Distortion, Integration Failure, Perseveration"
-page-0013,shape_6.jpg,shape_0.jpg,5.3736,149.8032,191.2098,1,11,"Distortion, Integration Failure, Perseveration"
-page-0013,shape_1.jpg,shape_2.jpg,7.7949,130.2306,210.4069,35,3,"Distortion, Perseveration"
-page-0013,shape_0.jpg,shape_7.jpg,20.8661,154.013,140.4953,2,6,"Distortion, Integration Failure, Perseveration"
-page-0013,shape_2.jpg,shape_7.jpg,5.9071,153.4047,137.5935,2,8,"Distortion, Integration Failure, Perseveration"
-page-0013,shape_3.jpg,shape_7.jpg,20.4579,154.013,139.75,2,19,"Distortion, Integration Failure, Perseveration"
-page-0013,shape_4.jpg,shape_7.jpg,20.3259,154.013,138.4042,2,39,"Distortion, Integration Failure, Perseveration"
-page-0013,shape_5.jpg,shape_7.jpg,20.3223,154.013,138.2079,2,6,"Distortion, Integration Failure, Perseveration"
+page-0012,shape_6.jpg,shape_2.jpg,8.0223,130.2306,205.1759,35,10,Perseveration
+page-0012,shape_7.jpg,shape_2.jpg,7.7287,130.2306,204.1276,35,12,Perseveration
+page-0012,shape_1.jpg,shape_6.jpg,8.2392,133.3604,178.1711,13,3,Omission
+page-0012,shape_0.jpg,shape_7.jpg,20.532,154.013,136.4836,2,4,"Distortion, Omission, Integration Failure"
+page-0013,shape_6.jpg,shape_0.jpg,5.3736,149.8032,191.2098,1,11,"Integration Failure, Perseveration"
+page-0013,shape_1.jpg,shape_2.jpg,7.7949,130.2306,210.4069,35,3,Perseveration
+page-0013,shape_0.jpg,shape_7.jpg,20.8661,154.013,140.4953,2,6,"Distortion, Omission, Integration Failure"
+page-0013,shape_2.jpg,shape_7.jpg,5.9071,153.4047,137.5935,2,8,"Omission, Integration Failure"
+page-0013,shape_3.jpg,shape_7.jpg,20.4579,154.013,139.75,2,19,"Distortion, Omission, Integration Failure"
+page-0013,shape_4.jpg,shape_7.jpg,20.3259,154.013,138.4042,2,39,"Distortion, Omission, Integration Failure"
+page-0013,shape_5.jpg,shape_7.jpg,20.3223,154.013,138.2079,2,6,"Distortion, Omission, Integration Failure"
 page-0014,shape_5.jpg,shape_2.jpg,21.3292,130.2306,202.3724,35,1,"Distortion, Perseveration"
 page-0014,shape_6.jpg,shape_2.jpg,21.5449,130.2306,207.7276,35,35,"Distortion, Perseveration"
-page-0014,shape_7.jpg,shape_2.jpg,7.7521,130.2306,200.8034,35,11,"Distortion, Perseveration"
-page-0014,shape_0.jpg,shape_6.jpg,8.4808,133.3604,174.8584,13,4,"Distortion, Perseveration"
-page-0014,shape_2.jpg,shape_6.jpg,8.4545,133.3604,184.9351,13,1,"Distortion, Perseveration"
-page-0014,shape_3.jpg,shape_7.jpg,20.898,154.013,142.4089,2,1,"Distortion, Perseveration"
-page-0014,shape_4.jpg,shape_7.jpg,20.5523,154.013,140.8014,2,1,"Distortion, Perseveration"
-page-0014,shape_1.jpg,shape_8.jpg,6.5315,138.0036,180.1886,3,4,"Distortion, Integration Failure, Perseveration"
-page-0015,shape_0.jpg,shape_0.jpg,5.3114,149.8032,197.7344,1,1,"Distortion, Perseveration"
-page-0015,shape_5.jpg,shape_0.jpg,5.729,149.8032,204.0623,1,3,"Distortion, Integration Failure, Perseveration"
-page-0015,shape_8.jpg,shape_0.jpg,5.4731,149.8032,188.741,1,35,"Distortion, Integration Failure, Perseveration"
-page-0015,shape_1.jpg,shape_2.jpg,8.1125,130.2306,202.9207,35,4,"Distortion, Perseveration"
-page-0015,shape_10.jpg,shape_2.jpg,8.0002,130.2306,206.3241,35,4,"Distortion, Perseveration"
+page-0014,shape_7.jpg,shape_2.jpg,7.7521,130.2306,200.8034,35,11,Perseveration
+page-0014,shape_0.jpg,shape_6.jpg,8.4808,133.3604,174.8584,13,4,Omission
+page-0014,shape_2.jpg,shape_6.jpg,8.4545,133.3604,184.9351,13,1,No Significant Errors
+page-0014,shape_3.jpg,shape_7.jpg,20.898,154.013,142.4089,2,1,"Distortion, Omission"
+page-0014,shape_4.jpg,shape_7.jpg,20.5523,154.013,140.8014,2,1,"Distortion, Omission"
+page-0014,shape_1.jpg,shape_8.jpg,6.5315,138.0036,180.1886,3,4,Integration Failure
+page-0015,shape_0.jpg,shape_0.jpg,5.3114,149.8032,197.7344,1,1,Perseveration
+page-0015,shape_5.jpg,shape_0.jpg,5.729,149.8032,204.0623,1,3,"Integration Failure, Perseveration"
+page-0015,shape_8.jpg,shape_0.jpg,5.4731,149.8032,188.741,1,35,Integration Failure
+page-0015,shape_1.jpg,shape_2.jpg,8.1125,130.2306,202.9207,35,4,Perseveration
+page-0015,shape_10.jpg,shape_2.jpg,8.0002,130.2306,206.3241,35,4,Perseveration
 page-0015,shape_6.jpg,shape_2.jpg,21.5299,130.2306,215.9414,35,3,"Distortion, Perseveration"
-page-0015,shape_7.jpg,shape_2.jpg,8.1046,130.2306,216.9586,35,1,"Distortion, Perseveration"
-page-0015,shape_9.jpg,shape_6.jpg,8.3185,133.3604,184.6844,13,1,"Distortion, Perseveration"
-page-0015,shape_3.jpg,shape_7.jpg,20.5574,154.013,147.1846,2,6,"Distortion, Integration Failure, Perseveration"
-page-0015,shape_4.jpg,shape_7.jpg,20.8958,154.013,147.4533,2,1,"Distortion, Perseveration"
-page-0015,shape_2.jpg,shape_8.jpg,6.8268,138.0036,174.7216,3,4,"Distortion, Integration Failure, Perseveration"
-page-0016,shape_0.jpg,shape_0.jpg,5.3765,149.8032,198.7344,1,1,"Distortion, Perseveration"
+page-0015,shape_7.jpg,shape_2.jpg,8.1046,130.2306,216.9586,35,1,Perseveration
+page-0015,shape_9.jpg,shape_6.jpg,8.3185,133.3604,184.6844,13,1,No Significant Errors
+page-0015,shape_3.jpg,shape_7.jpg,20.5574,154.013,147.1846,2,6,"Distortion, Omission, Integration Failure"
+page-0015,shape_4.jpg,shape_7.jpg,20.8958,154.013,147.4533,2,1,"Distortion, Omission"
+page-0015,shape_2.jpg,shape_8.jpg,6.8268,138.0036,174.7216,3,4,"Omission, Integration Failure"
+page-0016,shape_0.jpg,shape_0.jpg,5.3765,149.8032,198.7344,1,1,Perseveration
 page-0016,shape_1.jpg,shape_2.jpg,21.556,130.2306,209.4448,35,4,"Distortion, Perseveration"
-page-0016,shape_6.jpg,shape_2.jpg,7.9965,130.2306,214.431,35,21,"Distortion, Perseveration"
-page-0016,shape_8.jpg,shape_2.jpg,7.929,130.2306,212.8517,35,7,"Distortion, Perseveration"
-page-0016,shape_5.jpg,shape_6.jpg,8.3957,133.3604,183.4543,13,1,"Distortion, Perseveration"
-page-0016,shape_2.jpg,shape_7.jpg,20.8867,154.013,142.521,2,25,"Distortion, Integration Failure, Perseveration"
-page-0016,shape_3.jpg,shape_7.jpg,5.7167,154.013,136.7079,2,9,"Distortion, Integration Failure, Perseveration"
-page-0016,shape_4.jpg,shape_7.jpg,20.516,152.2005,150.1752,2,1,"Distortion, Perseveration"
-page-0016,shape_7.jpg,shape_7.jpg,20.4166,154.013,145.8248,2,1,"Distortion, Perseveration"
-page-0017,shape_5.jpg,shape_0.jpg,5.5959,149.8032,190.5016,1,27,"Distortion, Integration Failure, Perseveration"
-page-0017,shape_6.jpg,shape_0.jpg,5.9621,149.8032,187.059,1,4,"Distortion, Integration Failure, Perseveration"
+page-0016,shape_6.jpg,shape_2.jpg,7.9965,130.2306,214.431,35,21,Perseveration
+page-0016,shape_8.jpg,shape_2.jpg,7.929,130.2306,212.8517,35,7,Perseveration
+page-0016,shape_5.jpg,shape_6.jpg,8.3957,133.3604,183.4543,13,1,No Significant Errors
+page-0016,shape_2.jpg,shape_7.jpg,20.8867,154.013,142.521,2,25,"Distortion, Omission, Integration Failure"
+page-0016,shape_3.jpg,shape_7.jpg,5.7167,154.013,136.7079,2,9,"Omission, Integration Failure"
+page-0016,shape_4.jpg,shape_7.jpg,20.516,152.2005,150.1752,2,1,"Distortion, Omission"
+page-0016,shape_7.jpg,shape_7.jpg,20.4166,154.013,145.8248,2,1,"Distortion, Omission"
+page-0017,shape_5.jpg,shape_0.jpg,5.5959,149.8032,190.5016,1,27,"Integration Failure, Perseveration"
+page-0017,shape_6.jpg,shape_0.jpg,5.9621,149.8032,187.059,1,4,Integration Failure
 page-0017,shape_1.jpg,shape_2.jpg,21.374,130.2306,206.0655,35,6,"Distortion, Perseveration"
 page-0017,shape_2.jpg,shape_2.jpg,21.5332,130.2306,206.3483,35,12,"Distortion, Perseveration"
-page-0017,shape_4.jpg,shape_2.jpg,7.8689,130.2306,209.9724,35,1,"Distortion, Perseveration"
-page-0017,shape_3.jpg,shape_7.jpg,20.5263,154.013,146.8808,2,1,"Distortion, Perseveration"
-page-0017,shape_0.jpg,shape_8.jpg,6.2978,138.0036,181.8443,3,1,"Distortion, Perseveration"
-page-0018,shape_0.jpg,shape_0.jpg,5.3319,149.8032,187.2689,1,5,"Distortion, Integration Failure, Perseveration"
-page-0018,shape_2.jpg,shape_0.jpg,5.9732,149.8032,187.8131,1,3,"Distortion, Integration Failure, Perseveration"
+page-0017,shape_4.jpg,shape_2.jpg,7.8689,130.2306,209.9724,35,1,Perseveration
+page-0017,shape_3.jpg,shape_7.jpg,20.5263,154.013,146.8808,2,1,"Distortion, Omission"
+page-0017,shape_0.jpg,shape_8.jpg,6.2978,138.0036,181.8443,3,1,No Significant Errors
+page-0018,shape_0.jpg,shape_0.jpg,5.3319,149.8032,187.2689,1,5,Integration Failure
+page-0018,shape_2.jpg,shape_0.jpg,5.9732,149.8032,187.8131,1,3,Integration Failure
 page-0018,shape_3.jpg,shape_2.jpg,21.4886,130.2306,204.4345,35,4,"Distortion, Perseveration"
-page-0018,shape_7.jpg,shape_6.jpg,8.3466,133.3604,180.8053,13,27,"Distortion, Integration Failure, Perseveration"
-page-0018,shape_8.jpg,shape_6.jpg,8.3505,133.3604,166.2301,13,4,"Distortion, Perseveration"
-page-0018,shape_1.jpg,shape_7.jpg,6.0137,154.013,142.7103,2,2,"Distortion, Perseveration"
-page-0018,shape_4.jpg,shape_7.jpg,20.5469,154.013,139.1051,2,1,"Distortion, Perseveration"
-page-0018,shape_6.jpg,shape_7.jpg,20.5185,154.013,143.2009,2,1,"Distortion, Perseveration"
-page-0018,shape_5.jpg,shape_8.jpg,6.8042,138.0036,172.9701,3,2,"Distortion, Perseveration"
-page-0019,shape_1.jpg,shape_0.jpg,5.3875,149.8032,198.8459,1,1,"Distortion, Perseveration"
-page-0019,shape_7.jpg,shape_0.jpg,5.8295,149.8032,200.2328,1,3,"Distortion, Integration Failure, Perseveration"
-page-0019,shape_8.jpg,shape_0.jpg,5.8833,149.2146,192.6885,1,3,"Distortion, Integration Failure, Perseveration"
-page-0019,shape_0.jpg,shape_2.jpg,7.7132,130.2306,204.6172,35,5,"Distortion, Perseveration"
+page-0018,shape_7.jpg,shape_6.jpg,8.3466,133.3604,180.8053,13,27,Integration Failure
+page-0018,shape_8.jpg,shape_6.jpg,8.3505,133.3604,166.2301,13,4,Omission
+page-0018,shape_1.jpg,shape_7.jpg,6.0137,154.013,142.7103,2,2,Omission
+page-0018,shape_4.jpg,shape_7.jpg,20.5469,154.013,139.1051,2,1,"Distortion, Omission"
+page-0018,shape_6.jpg,shape_7.jpg,20.5185,154.013,143.2009,2,1,"Distortion, Omission"
+page-0018,shape_5.jpg,shape_8.jpg,6.8042,138.0036,172.9701,3,2,Omission
+page-0019,shape_1.jpg,shape_0.jpg,5.3875,149.8032,198.8459,1,1,Perseveration
+page-0019,shape_7.jpg,shape_0.jpg,5.8295,149.8032,200.2328,1,3,"Integration Failure, Perseveration"
+page-0019,shape_8.jpg,shape_0.jpg,5.8833,149.2146,192.6885,1,3,"Integration Failure, Perseveration"
+page-0019,shape_0.jpg,shape_2.jpg,7.7132,130.2306,204.6172,35,5,Perseveration
 page-0019,shape_2.jpg,shape_2.jpg,21.3966,130.2306,207.2483,35,7,"Distortion, Perseveration"
-page-0019,shape_3.jpg,shape_7.jpg,20.4938,154.013,145.7313,2,2,"Distortion, Perseveration"
-page-0019,shape_5.jpg,shape_7.jpg,5.8636,154.013,143.4673,2,1,"Distortion, Perseveration"
-page-0019,shape_4.jpg,shape_8.jpg,6.8152,138.0036,183.3952,3,1,"Distortion, Perseveration"
-page-0019,shape_6.jpg,shape_8.jpg,6.0176,138.0036,171.7964,3,12,"Distortion, Integration Failure, Perseveration"
-page-0020,shape_0.jpg,shape_0.jpg,5.3732,149.8032,198.623,1,1,"Distortion, Perseveration"
+page-0019,shape_3.jpg,shape_7.jpg,20.4938,154.013,145.7313,2,2,"Distortion, Omission"
+page-0019,shape_5.jpg,shape_7.jpg,5.8636,154.013,143.4673,2,1,Omission
+page-0019,shape_4.jpg,shape_8.jpg,6.8152,138.0036,183.3952,3,1,No Significant Errors
+page-0019,shape_6.jpg,shape_8.jpg,6.0176,138.0036,171.7964,3,12,"Omission, Integration Failure"
+page-0020,shape_0.jpg,shape_0.jpg,5.3732,149.8032,198.623,1,1,Perseveration
 page-0020,shape_6.jpg,shape_2.jpg,21.5309,130.2306,219.9552,35,2,"Distortion, Perseveration"
-page-0020,shape_4.jpg,shape_6.jpg,8.2121,133.3604,180.8378,13,10,"Distortion, Perseveration"
-page-0020,shape_7.jpg,shape_6.jpg,8.2025,133.3604,172.4012,13,12,"Distortion, Perseveration"
-page-0020,shape_8.jpg,shape_6.jpg,8.2003,133.3604,169.9587,13,10,"Distortion, Perseveration"
-page-0020,shape_1.jpg,shape_7.jpg,20.5193,154.013,145.1893,2,3,"Distortion, Integration Failure, Perseveration"
-page-0020,shape_2.jpg,shape_7.jpg,20.4946,154.013,144.0023,2,1,"Distortion, Perseveration"
-page-0020,shape_3.jpg,shape_7.jpg,20.8972,154.013,147.6449,2,1,"Distortion, Perseveration"
-page-0020,shape_5.jpg,shape_7.jpg,20.512,154.013,145.9042,2,1,"Distortion, Perseveration"
-page-0021,shape_9.jpg,shape_0.jpg,6.0058,149.8032,209.9836,1,1,"Distortion, Perseveration"
+page-0020,shape_4.jpg,shape_6.jpg,8.2121,133.3604,180.8378,13,10,No Significant Errors
+page-0020,shape_7.jpg,shape_6.jpg,8.2025,133.3604,172.4012,13,12,Omission
+page-0020,shape_8.jpg,shape_6.jpg,8.2003,133.3604,169.9587,13,10,Omission
+page-0020,shape_1.jpg,shape_7.jpg,20.5193,154.013,145.1893,2,3,"Distortion, Omission, Integration Failure"
+page-0020,shape_2.jpg,shape_7.jpg,20.4946,154.013,144.0023,2,1,"Distortion, Omission"
+page-0020,shape_3.jpg,shape_7.jpg,20.8972,154.013,147.6449,2,1,"Distortion, Omission"
+page-0020,shape_5.jpg,shape_7.jpg,20.512,154.013,145.9042,2,1,"Distortion, Omission"
+page-0021,shape_9.jpg,shape_0.jpg,6.0058,149.8032,209.9836,1,1,Perseveration
 page-0021,shape_1.jpg,shape_2.jpg,21.5196,130.2306,215.6345,35,4,"Distortion, Perseveration"
-page-0021,shape_6.jpg,shape_2.jpg,7.5615,130.2306,204.8034,35,7,"Distortion, Perseveration"
-page-0021,shape_5.jpg,shape_6.jpg,8.1307,133.3604,171.354,13,8,"Distortion, Perseveration"
-page-0021,shape_10.jpg,shape_7.jpg,20.8769,154.013,141.507,2,3,"Distortion, Integration Failure, Perseveration"
-page-0021,shape_2.jpg,shape_7.jpg,5.9459,154.013,146.4836,2,1,"Distortion, Perseveration"
-page-0021,shape_3.jpg,shape_7.jpg,20.7808,154.013,139.8341,2,4,"Distortion, Integration Failure, Perseveration"
-page-0021,shape_4.jpg,shape_7.jpg,20.8615,154.013,139.5093,2,14,"Distortion, Integration Failure, Perseveration"
-page-0021,shape_8.jpg,shape_7.jpg,5.9618,154.013,144.8551,2,1,"Distortion, Perseveration"
-page-0021,shape_0.jpg,shape_8.jpg,6.7563,138.0036,177.9521,3,3,"Distortion, Perseveration"
-page-0021,shape_7.jpg,shape_8.jpg,6.8697,138.0036,188.5299,3,2,"Distortion, Perseveration"
+page-0021,shape_6.jpg,shape_2.jpg,7.5615,130.2306,204.8034,35,7,Perseveration
+page-0021,shape_5.jpg,shape_6.jpg,8.1307,133.3604,171.354,13,8,Omission
+page-0021,shape_10.jpg,shape_7.jpg,20.8769,154.013,141.507,2,3,"Distortion, Omission, Integration Failure"
+page-0021,shape_2.jpg,shape_7.jpg,5.9459,154.013,146.4836,2,1,Omission
+page-0021,shape_3.jpg,shape_7.jpg,20.7808,154.013,139.8341,2,4,"Distortion, Omission, Integration Failure"
+page-0021,shape_4.jpg,shape_7.jpg,20.8615,154.013,139.5093,2,14,"Distortion, Omission, Integration Failure"
+page-0021,shape_8.jpg,shape_7.jpg,5.9618,154.013,144.8551,2,1,Omission
+page-0021,shape_0.jpg,shape_8.jpg,6.7563,138.0036,177.9521,3,3,Omission
+page-0021,shape_7.jpg,shape_8.jpg,6.8697,138.0036,188.5299,3,2,No Significant Errors
 page-0022,shape_1.jpg,shape_2.jpg,21.584,130.2306,219.7483,35,1,"Distortion, Perseveration"
-page-0022,shape_2.jpg,shape_2.jpg,8.0169,130.2306,219.331,35,1,"Distortion, Perseveration"
-page-0022,shape_5.jpg,shape_2.jpg,7.1281,130.2306,183.6517,35,30,"Distortion, Perseveration"
-page-0022,shape_0.jpg,shape_7.jpg,20.8315,154.013,143.0818,2,7,"Distortion, Integration Failure, Perseveration"
-page-0022,shape_4.jpg,shape_7.jpg,20.4217,154.013,142.3201,2,1,"Distortion, Perseveration"
-page-0022,shape_6.jpg,shape_7.jpg,20.491,154.013,143.215,2,1,"Distortion, Perseveration"
-page-0022,shape_7.jpg,shape_7.jpg,20.5049,154.013,143.5864,2,3,"Distortion, Integration Failure, Perseveration"
-page-0022,shape_8.jpg,shape_7.jpg,20.8835,154.013,148.264,2,1,"Distortion, Perseveration"
-page-0022,shape_3.jpg,shape_8.jpg,6.7587,138.0036,185.2814,3,1,"Distortion, Perseveration"
-page-0023,shape_0.jpg,shape_0.jpg,6.0078,149.8032,208.9311,1,1,"Distortion, Perseveration"
-page-0023,shape_1.jpg,shape_2.jpg,7.9048,130.2306,204.2655,35,12,"Distortion, Perseveration"
+page-0022,shape_2.jpg,shape_2.jpg,8.0169,130.2306,219.331,35,1,Perseveration
+page-0022,shape_5.jpg,shape_2.jpg,7.1281,130.2306,183.6517,35,30,No Significant Errors
+page-0022,shape_0.jpg,shape_7.jpg,20.8315,154.013,143.0818,2,7,"Distortion, Omission, Integration Failure"
+page-0022,shape_4.jpg,shape_7.jpg,20.4217,154.013,142.3201,2,1,"Distortion, Omission"
+page-0022,shape_6.jpg,shape_7.jpg,20.491,154.013,143.215,2,1,"Distortion, Omission"
+page-0022,shape_7.jpg,shape_7.jpg,20.5049,154.013,143.5864,2,3,"Distortion, Omission, Integration Failure"
+page-0022,shape_8.jpg,shape_7.jpg,20.8835,154.013,148.264,2,1,"Distortion, Omission"
+page-0022,shape_3.jpg,shape_8.jpg,6.7587,138.0036,185.2814,3,1,No Significant Errors
+page-0023,shape_0.jpg,shape_0.jpg,6.0078,149.8032,208.9311,1,1,Perseveration
+page-0023,shape_1.jpg,shape_2.jpg,7.9048,130.2306,204.2655,35,12,Perseveration
 page-0023,shape_5.jpg,shape_2.jpg,21.4918,130.2306,201.8414,35,5,"Distortion, Perseveration"
-page-0023,shape_6.jpg,shape_2.jpg,8.1184,130.2306,219.3103,35,1,"Distortion, Perseveration"
-page-0023,shape_9.jpg,shape_2.jpg,7.9138,130.2306,217.2931,35,1,"Distortion, Perseveration"
-page-0023,shape_3.jpg,shape_7.jpg,20.478,154.013,144.7383,2,5,"Distortion, Integration Failure, Perseveration"
-page-0023,shape_4.jpg,shape_7.jpg,20.5024,154.013,133.1799,2,19,"Distortion, Integration Failure, Perseveration"
-page-0023,shape_8.jpg,shape_7.jpg,20.5297,154.013,148.1005,2,1,"Distortion, Perseveration"
-page-0023,shape_2.jpg,shape_8.jpg,6.2771,138.0036,177.5389,3,4,"Distortion, Integration Failure, Perseveration"
-page-0023,shape_7.jpg,shape_8.jpg,6.4819,138.0036,185.5778,3,3,"Distortion, Perseveration"
-page-0024,shape_1.jpg,shape_2.jpg,7.8989,129.2478,204.8172,35,4,"Distortion, Perseveration"
-page-0024,shape_2.jpg,shape_7.jpg,20.8964,154.013,145.0117,2,17,"Distortion, Integration Failure, Perseveration"
-page-0024,shape_0.jpg,shape_8.jpg,6.3333,138.0036,182.491,3,1,"Distortion, Perseveration"
+page-0023,shape_6.jpg,shape_2.jpg,8.1184,130.2306,219.3103,35,1,Perseveration
+page-0023,shape_9.jpg,shape_2.jpg,7.9138,130.2306,217.2931,35,1,Perseveration
+page-0023,shape_3.jpg,shape_7.jpg,20.478,154.013,144.7383,2,5,"Distortion, Omission, Integration Failure"
+page-0023,shape_4.jpg,shape_7.jpg,20.5024,154.013,133.1799,2,19,"Distortion, Omission, Integration Failure"
+page-0023,shape_8.jpg,shape_7.jpg,20.5297,154.013,148.1005,2,1,"Distortion, Omission"
+page-0023,shape_2.jpg,shape_8.jpg,6.2771,138.0036,177.5389,3,4,"Omission, Integration Failure"
+page-0023,shape_7.jpg,shape_8.jpg,6.4819,138.0036,185.5778,3,3,No Significant Errors
+page-0024,shape_1.jpg,shape_2.jpg,7.8989,129.2478,204.8172,35,4,Perseveration
+page-0024,shape_2.jpg,shape_7.jpg,20.8964,154.013,145.0117,2,17,"Distortion, Omission, Integration Failure"
+page-0024,shape_0.jpg,shape_8.jpg,6.3333,138.0036,182.491,3,1,No Significant Errors

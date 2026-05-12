@@ -7,14 +7,14 @@ from scipy.spatial.distance import directed_hausdorff
 # =========================
 # Configuration
 # =========================
-TEMPLATE_DIR = r"F:\Github\bender-gestalt-analysis\data\templates"
-DETECTED_DIR = r"F:\Github\bender-gestalt-analysis\data\Detected"
+TEMPLATE_DIR = r"D:\assignments\cognitive\project\bender-gestalt-analysis\data\templates"
+DETECTED_DIR = r"D:\assignments\cognitive\project\bender-gestalt-analysis\data\Detected"
 OUTPUT_CSV = "bender_analysis_report.csv"
 
 # Thresholds
-HU_THRESHOLD = 0.5
-HAUSDORFF_THRESHOLD = 20
-AREA_RATIO_THRESHOLD = 0.75
+HU_THRESHOLD = 14.5
+HAUSDORFF_THRESHOLD = 122.5
+AREA_RATIO_THRESHOLD = 180
 
 
 # =========================
@@ -104,7 +104,7 @@ def detect_errors(hu_dist, haus_dist, ar, t_comp, s_comp):
     if s_comp > t_comp:
         errors.append("Integration Failure")
 
-    if ar > 1.3:
+    if ar > AREA_RATIO_THRESHOLD + 10:
         errors.append("Perseveration")
 
     if not errors:
