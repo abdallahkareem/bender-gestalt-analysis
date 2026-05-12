@@ -25,11 +25,10 @@ for filename in os.listdir(img_folder):
         # optional: denoise
         img = cv2.medianBlur(img, 5)
 
-        # dilation (مرة واحدة فقط)
+        # dilation 
         kernel = np.ones((12, 12), np.uint8)
         dilated = cv2.dilate(img, kernel, iterations=2)
 
-        # contours على صورة مناسبة
         contours, _ = cv2.findContours(
             dilated,
             cv2.RETR_EXTERNAL,
