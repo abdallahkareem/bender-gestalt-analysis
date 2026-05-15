@@ -1,1 +1,0 @@
-# BGT Assessment — src package
